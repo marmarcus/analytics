@@ -61,7 +61,6 @@ df = pd.read_csv('job_scraper/jobs.csv')
 
 descriptions = df['description'] # Get all description column cells
 id_number = df['id'] # Get all ids from column cells
-window_size = 1 # Amount of cells the AI will go through at a time 
 
 # File defined for output
 output_file = "job_data.json"
@@ -73,14 +72,22 @@ if not os.path.exists(output_file):
 
 # Loop through all the cells from 0 to end of descriptions array
 for i in range(len(descriptions)):
-    results = analyze_description(descriptions[i], id_number[i])
-
     # Start outputting results to JSON file 
 
     # Get the data from the JSON file
     with open(output_file, "r") as file:
         data = json.load(file)
-    
+
+    # Check for any existing keys to prevent duplicates
+    existing_keys = {item["ID"] for item in data}
+
+    # If current id already exists within the JSON file, then skip to the next id
+    if id_number[i] in existing_keys:
+        print("skipped existing ID")
+        continue
+
+    results = analyze_description(descriptions[i], id_number[i])    
+
     # Append results to the end of the JSON file
     data.extend(results)
 
@@ -88,5 +95,5 @@ for i in range(len(descriptions)):
     with open(output_file, "w") as file:
         json.dump(data, file, indent=4)
 
-    # 4 seconds between API call because of limit on tokens per minute
-    time.sleep(4)
+    # 4.5 seconds between API call because of limit on tokens per minute
+    time.sleep(4.5)

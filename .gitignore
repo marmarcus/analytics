@@ -1,6 +1,3 @@
 # environment variables
 .env
 *.env
-
-.json
-.csv
