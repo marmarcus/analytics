@@ -6,6 +6,7 @@ from dotenv import load_dotenv
 import pandas as pd
 import os
 import json
+import time
 
 #Get API key from .env
 load_dotenv()
@@ -48,8 +49,10 @@ def analyze_description(posts, id_number):
     
     response = client.models.generate_content(
         model='gemini-3.1-flash-lite-preview',
-        contents=(prompt)
+        contents=prompt
     )
+
+    #return(print(response.text))
 
     return json.loads(response.text)
     
@@ -70,12 +73,12 @@ if not os.path.exists(output_file):
         json.dump([], file)
 
 # Loop through all the cells from 0 to end of descriptions array
-# Increment by the window size
-for i in range(0, 3, window_size):
+for i in range(0, len(descriptions)):
     
-    posts = descriptions[i:i + window_size]
+    #posts = descriptions[i:i + window_size]
+    #numbers = id_number[i:i + window_size]
 
-    results = analyze_description(posts, id_number)
+    results = analyze_description(descriptions[i], id_number[i])
 
     # Start outputting results to JSON file
 
@@ -85,9 +88,9 @@ for i in range(0, 3, window_size):
     
     # Append results to the end of the JSON file
     data.extend(results)
-    print(i)
-    print(success)
 
     # Write to JSON file
     with open(output_file, "w") as file:
         json.dump(data, file, indent=4)
+
+    time.sleep(4)
