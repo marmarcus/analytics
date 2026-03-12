@@ -46,7 +46,7 @@ def analyze_description(posts, id_number):
     )
 
     return json.loads(response.text)
-    
+
 #Get API key from .env
 load_dotenv()
 
