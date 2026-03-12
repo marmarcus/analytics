@@ -22,12 +22,15 @@ def analyze_description(posts, id_number):
              Programming languages include things like Python, SQL, R, Java, C++, etc.
 
              Tools include software platforms such as Tableau, Power BI, Excel, AWS, Docker, Airflow, Kubernetes, etc.
+
+             If a requirement is being currently enrolled then it is an internship.
              
              If a field cannot be determined, return N/A into the field.
 
              JSON Fields:
              - ID
              - years_experience 
+             - fulltime/parttime/internship
              - programming_languages
              - tools
 
@@ -54,7 +57,7 @@ api_key = os.getenv("GEMINI_API_KEY")
 client = genai.Client(api_key=api_key)
 
 # Read CSV file 
-df = pd.read_csv('data/jobs.csv')
+df = pd.read_csv('job_scraper/jobs.csv')
 
 descriptions = df['description'] # Get all description column cells
 id_number = df['id'] # Get all ids from column cells
