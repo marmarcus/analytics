@@ -22,7 +22,7 @@ def analyze_description(posts, id_number):
              Programming languages include things like Python, SQL, R, Java, C++, etc.
 
              Tools include software platforms such as Tableau, Power BI, Excel, AWS, Docker, Airflow, Kubernetes, etc.
-
+             
              If a field cannot be determined, return N/A into the field.
 
              JSON Fields:
