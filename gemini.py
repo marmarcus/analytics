@@ -8,12 +8,6 @@ import os
 import json
 import time
 
-#Get API key from .env
-load_dotenv()
-
-api_key = os.getenv("GEMINI_API_KEY")
-client = genai.Client(api_key=api_key)
-
 # Function which contains the prompt for Gemini to analyze
 def analyze_description(posts, id_number):
     prompt = f"""
@@ -44,7 +38,6 @@ def analyze_description(posts, id_number):
 
              {id_number}'s Description:
              {posts}
-
              """
     
     response = client.models.generate_content(
@@ -52,19 +45,22 @@ def analyze_description(posts, id_number):
         contents=prompt
     )
 
-    #return(print(response.text))
-
     return json.loads(response.text)
     
+#Get API key from .env
+load_dotenv()
+
+api_key = os.getenv("GEMINI_API_KEY")
+client = genai.Client(api_key=api_key)
+
 # Read CSV file 
 df = pd.read_csv('data/jobs.csv')
 
-# Get all description column cells
-descriptions = df['description']
-id_number = df['id']
-# Amount of cells the AI will go through at a time 
-window_size = 1 
+descriptions = df['description'] # Get all description column cells
+id_number = df['id'] # Get all ids from column cells
+window_size = 1 # Amount of cells the AI will go through at a time 
 
+# File defined for output
 output_file = "job_data.json"
 
 # Check for output file, create if doesn't exist
@@ -73,14 +69,10 @@ if not os.path.exists(output_file):
         json.dump([], file)
 
 # Loop through all the cells from 0 to end of descriptions array
-for i in range(0, len(descriptions)):
-    
-    #posts = descriptions[i:i + window_size]
-    #numbers = id_number[i:i + window_size]
-
+for i in range(len(descriptions)):
     results = analyze_description(descriptions[i], id_number[i])
 
-    # Start outputting results to JSON file
+    # Start outputting results to JSON file 
 
     # Get the data from the JSON file
     with open(output_file, "r") as file:
@@ -93,4 +85,5 @@ for i in range(0, len(descriptions)):
     with open(output_file, "w") as file:
         json.dump(data, file, indent=4)
 
+    # 4 seconds between API call because of limit on tokens per minute
     time.sleep(4)
