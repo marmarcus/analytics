@@ -1,6 +1,8 @@
 [
     {
         "ID": "in-c008bcda25ab884d",
+        "location": "Coronado, CA, US",
+        "date": "2026-03-11",
         "years_experience": "8 years",
         "salary": "N/A",
         "in-person/remote/hybrid": "N/A",
@@ -16,7 +18,9 @@
     },
     {
         "ID": "in-cc288372730818c5",
-        "years_experience": "5+ years",
+        "location": "San Diego, CA, US",
+        "date": "2026-03-11",
+        "years_experience": "5+",
         "salary": "N/A",
         "in-person/remote/hybrid": "in-person",
         "fulltime/parttime/internship": "fulltime",
@@ -43,8 +47,10 @@
     },
     {
         "ID": "in-1d28b393091a5b1e",
+        "location": "Los Angeles, CA, US",
+        "date": "2026-03-11",
         "years_experience": "N/A",
-        "salary": "$100,000.00 - $120,000.00 per year",
+        "salary": "$100,000.00 - $120,000.00",
         "in-person/remote/hybrid": "In person",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
@@ -60,19 +66,24 @@
     },
     {
         "ID": "in-7b9325261496c314",
+        "location": "Valencia, CA, US",
+        "date": "2026-03-11",
         "years_experience": "N/A",
         "salary": "$18.00 - $25.00 per hour",
-        "in-person/remote/hybrid": "In person",
+        "in-person/remote/hybrid": "in-person",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
         "tools": [
             "Sage 100",
+            "MAS 90",
             "Excel",
             "Word"
         ]
     },
     {
         "ID": "in-6bb1a84c567a33bf",
+        "location": "Beverly Hills, CA, US",
+        "date": "2026-03-10",
         "years_experience": "5",
         "salary": "$158,808 - $166,000 per year",
         "in-person/remote/hybrid": "remote",
@@ -98,8 +109,10 @@
     },
     {
         "ID": "in-34e0be158745924b",
+        "location": "San Diego, CA, US",
+        "date": "2026-03-10",
         "years_experience": "4+",
-        "salary": "$102,500 - $188,900",
+        "salary": "$102,500 to $188,900",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
@@ -113,14 +126,18 @@
             "Tableau",
             "PowerBI",
             "Qlik",
-            "Excel"
+            "Excel",
+            "Word",
+            "PowerPoint"
         ]
     },
     {
         "ID": "in-93fff35ab25e9644",
+        "location": "Costa Mesa, CA, US",
+        "date": "2026-03-10",
         "years_experience": "4+",
-        "salary": "$102,500 - $188,900",
-        "in-person/remote/hybrid": "hybrid",
+        "salary": "$102,500 to $188,900",
+        "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
             "SQL",
@@ -133,14 +150,18 @@
             "Tableau",
             "PowerBI",
             "Qlik",
-            "Excel"
+            "Excel",
+            "Word",
+            "PowerPoint"
         ]
     },
     {
         "ID": "in-4b2d8713aaf94fe2",
+        "location": "Los Angeles, CA, US",
+        "date": "2026-03-10",
         "years_experience": "4+",
         "salary": "$102,500 - $188,900",
-        "in-person/remote/hybrid": "hybrid",
+        "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
             "SQL",
@@ -160,9 +181,11 @@
     },
     {
         "ID": "in-3e31e6d679b02e90",
-        "years_experience": "0\u20132 years",
+        "location": "Torrance, CA, US",
+        "date": "2026-03-10",
+        "years_experience": "0-2 years",
         "salary": "$55,000-$70,000",
-        "in-person/remote/hybrid": "in-person",
+        "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
         "tools": [
@@ -175,7 +198,9 @@
     },
     {
         "ID": "in-89cda6d3fab9153c",
-        "years_experience": "2 years",
+        "location": "Los Angeles, CA, US",
+        "date": "2026-03-10",
+        "years_experience": "2",
         "salary": "90k-115k",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
@@ -186,20 +211,22 @@
             "Charles River",
             "SMS Proprietary System",
             "Bloomberg",
+            "Bloomberg API",
             "Aladdin",
             "SharePoint",
             "Microsoft Visual Studio",
             "TFS",
             "K2",
             "Microsoft Excel",
-            "Word",
-            "Bloomberg API"
+            "Word"
         ]
     },
     {
         "ID": "in-9f37426b0ac523b4",
+        "location": "Los Angeles, CA, US",
+        "date": "2026-03-10",
         "years_experience": "3",
-        "salary": "$73,601.00 - $85,469.00 USD",
+        "salary": "$73,601.00 - $85,469.00",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
@@ -216,13 +243,14 @@
     },
     {
         "ID": "in-a9897e04044abca1",
+        "location": "Irvine, CA, US",
+        "date": "2026-03-10",
         "years_experience": "8+",
         "salary": "$76,000 - $114,000",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
         "tools": [
-            "ICE Suite of Mortgage Servicing Solutions",
             "LoanSphere MSP",
             "FC/BK",
             "Loan Boarding",
@@ -235,6 +263,8 @@
     },
     {
         "ID": "in-de6194a5244ee907",
+        "location": "Culver City, CA, US",
+        "date": "2026-03-10",
         "years_experience": "N/A",
         "salary": "$19/hour",
         "in-person/remote/hybrid": "in-person",
@@ -248,6 +278,8 @@
     },
     {
         "ID": "in-815b920f69773b3a",
+        "location": "Culver City, CA, US",
+        "date": "2026-03-10",
         "years_experience": "N/A",
         "salary": "$22/hour",
         "in-person/remote/hybrid": "in-person",
@@ -259,6 +291,8 @@
     },
     {
         "ID": "in-11e6646f48576511",
+        "location": "Culver City, CA, US",
+        "date": "2026-03-10",
         "years_experience": "N/A",
         "salary": "$22/hour",
         "in-person/remote/hybrid": "in-person",
@@ -269,12 +303,14 @@
         ],
         "tools": [
             "Tableau",
-            "Advanced Excel",
-            "Microsoft Office Suite"
+            "Excel",
+            "Microsoft Office"
         ]
     },
     {
         "ID": "in-383c0656e8b21ee0",
+        "location": "Santa Monica, CA, US",
+        "date": "2026-03-10",
         "years_experience": "N/A",
         "salary": "$18-$20 per hour",
         "in-person/remote/hybrid": "in-person",
@@ -288,14 +324,18 @@
             "Tableau",
             "Alteryx",
             "Excel",
-            "YouTube Studio"
+            "YouTube Studio",
+            "Word",
+            "PowerPoint"
         ]
     },
     {
         "ID": "in-e680e3577a8fe708",
+        "location": "Newport Beach, CA, US",
+        "date": "2026-03-10",
         "years_experience": "5 years",
         "salary": "$113,490.00 - $138,710.00",
-        "in-person/remote/hybrid": "in-person",
+        "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
             "SQL"
@@ -312,8 +352,10 @@
     },
     {
         "ID": "in-ceb70ef1d6fbe66d",
+        "location": "San Diego, CA, US",
+        "date": "2026-03-10",
         "years_experience": "5+",
-        "salary": "$143,000 - $194,500",
+        "salary": "$143,000 - $193,500",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
@@ -330,6 +372,8 @@
     },
     {
         "ID": "in-127ec62911fc697c",
+        "location": "Pasadena, CA, US",
+        "date": "2026-03-09",
         "years_experience": "N/A",
         "salary": "N/A",
         "in-person/remote/hybrid": "hybrid",
@@ -339,13 +383,15 @@
             "Python"
         ],
         "tools": [
-            "MS Word",
+            "Word",
             "Excel",
             "PowerPoint"
         ]
     },
     {
         "ID": "in-3579c05fd015550a",
+        "location": "Culver City, CA, US",
+        "date": "2026-03-09",
         "years_experience": "N/A",
         "salary": "$22.00/hour",
         "in-person/remote/hybrid": "in-person",
@@ -355,38 +401,47 @@
         ],
         "tools": [
             "Airtable",
-            "Tableau",
             "Snowflake",
+            "Tableau",
             "Excel",
             "PowerPoint"
         ]
     },
     {
         "ID": "in-8e7c990a8da0f7ce",
+        "location": "Chino, CA, US",
+        "date": "2026-03-09",
         "years_experience": "1 year",
-        "salary": "$21.00 - $31.16",
+        "salary": "$21.00 to $31.16",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
         "tools": [
-            "MS Office",
-            "Windows operating system",
-            "Health Information System"
+            "Microsoft Office",
+            "Windows"
         ]
     },
     {
         "ID": "in-76bf95f3f65def3b",
+        "location": "Corona, CA, US",
+        "date": "2026-03-09",
         "years_experience": "2+",
-        "salary": "$31.25 - $36.06/Hr",
+        "salary": "$31.25/Hr - $36.06/Hr",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
         "tools": [
-            "Excel"
+            "Excel",
+            "Pivot Tables",
+            "VLOOKUP",
+            "XLOOKUP",
+            "INDEX-MATCH"
         ]
     },
     {
         "ID": "in-d27d5bdd0a528530",
+        "location": "San Diego, CA, US",
+        "date": "2026-03-09",
         "years_experience": "N/A",
         "salary": "$100,000 - $145,000",
         "in-person/remote/hybrid": "in-person",
@@ -396,6 +451,8 @@
     },
     {
         "ID": "in-a72a53fb53e2ed16",
+        "location": "Manhattan Beach, CA, US",
+        "date": "2026-03-09",
         "years_experience": "N/A",
         "salary": "$25/hr",
         "in-person/remote/hybrid": "N/A",
@@ -410,9 +467,11 @@
     },
     {
         "ID": "in-b8b96498de59148e",
+        "location": "Los Angeles, CA, US",
+        "date": "2026-03-09",
         "years_experience": "N/A",
         "salary": "$18 - $22 per hour",
-        "in-person/remote/hybrid": "in-person",
+        "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "internship",
         "programming_languages": "N/A",
         "tools": [
@@ -423,7 +482,9 @@
     },
     {
         "ID": "in-47a667dc105dd82e",
-        "years_experience": "4-6 years",
+        "location": "Long Beach, CA, US",
+        "date": "2026-03-09",
+        "years_experience": "4",
         "salary": "$88,000 - $110,670",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
@@ -432,49 +493,57 @@
             "C#",
             "Python",
             "VBA",
-            "SSIS"
+            "SSIS",
+            ".NET",
+            "Java",
+            "HTML"
         ],
         "tools": [
             "Excel",
+            "Microsoft Office",
+            "Word",
             "PowerPoint",
-            "MS Office",
+            "Access",
             "Power BI"
         ]
     },
     {
         "ID": "in-ebe7065a30145312",
+        "location": "Manhattan Beach, CA, US",
+        "date": "2026-03-09",
         "years_experience": "N/A",
         "salary": "$25/hr",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "internship",
         "programming_languages": "N/A",
         "tools": [
-            "Microsoft Office Suite",
+            "Microsoft Office",
             "Excel",
             "Smartsheet"
         ]
     },
     {
         "ID": "in-d7c0adfbd291effa",
-        "years_experience": "3+ years",
-        "salary": "$83,000.00-$103,000.00 / Annually",
+        "location": "Irvine, CA, US",
+        "date": "2026-03-03",
+        "years_experience": "3+",
+        "salary": "$83,000-$103,000",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
             "SQL",
             "C#",
-            "AJAX",
-            "JavaScript",
-            "JQuery",
-            "HTML",
-            "CSS"
+            "JavaScript"
         ],
         "tools": [
             "Epic",
-            "EHR",
             "QSI/CPS",
             "Cloud9",
             "ASP.NET",
+            "AJAX",
+            "JQuery",
+            "HTML",
+            "CSS",
             "SQL Server",
             "Windows",
             "Outlook",
@@ -487,8 +556,10 @@
     },
     {
         "ID": "in-4f7bb2d58687ff09",
+        "location": "Culver City, CA, US",
+        "date": "2026-02-03",
         "years_experience": "5+",
-        "salary": "88,100 - 169,500 USD",
+        "salary": "88,100 - 154,100 USD annually",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
@@ -501,17 +572,24 @@
     },
     {
         "ID": "in-c1fcff359feb832a",
-        "years_experience": "3 years",
+        "location": "Murrieta, CA, US",
+        "date": "2025-03-09",
+        "years_experience": "3",
         "salary": "N/A",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
-        "tools": "N/A"
+        "tools": [
+            "spreadsheets",
+            "databases"
+        ]
     },
     {
         "ID": "in-531b5dec2ff01158",
+        "location": "Las Vegas, NV, US",
+        "date": "2026-03-10",
         "years_experience": "4+",
-        "salary": "$102,500 - $188,900",
+        "salary": "$102,500 to $188,900",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
@@ -525,27 +603,31 @@
             "Tableau",
             "PowerBI",
             "Qlik",
-            "Excel"
+            "Excel",
+            "Word",
+            "PowerPoint"
         ]
     },
     {
         "ID": "in-73adfbc6ec18adde",
+        "location": "Las Vegas, NV, US",
+        "date": "2026-03-09",
         "years_experience": "6+",
         "salary": "$95,248.00 - $142,871.00",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
         "tools": [
-            "SAP CX suite",
-            "MyCustomer (S4)",
-            "MyCustomer2 (C4C)",
+            "SAP CX",
+            "MyCustomer",
+            "MyCustomer2",
             "CIC",
             "Signavio",
             "MiBob",
-            "SAP Analytics Cloud (SAC)",
+            "SAP Analytics Cloud",
             "MyAccount",
             "Bill Print and Electronic Presentment",
-            "Microsoft Teams",
+            "Teams",
             "Word",
             "PowerPoint",
             "PowerBI",
@@ -554,21 +636,24 @@
     },
     {
         "ID": "in-2da856a587f75dc1",
+        "location": "Las Vegas, NV, US",
+        "date": "2026-03-09",
         "years_experience": "4-6 years",
         "salary": "$75,474.00 - $109,432.00",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
         "tools": [
-            "SAP CX suite",
-            "MyCustomer (S4)",
-            "MyCustomer2 (C4C)",
+            "SAP CX",
+            "MyCustomer",
+            "MyCustomer2",
             "CIC",
             "Signavio",
             "MiBob",
-            "SAP Analytics Cloud (SAC)",
+            "SAP Analytics Cloud",
             "Power BI",
             "MyAccount",
+            "Bill Print and Electronic Presentment",
             "Microsoft Office",
             "Teams",
             "Word",
@@ -578,9 +663,11 @@
     },
     {
         "ID": "in-91de1fbfea377095",
+        "location": "Henderson, NV, US",
+        "date": "2026-03-06",
         "years_experience": "5+",
         "salary": "N/A",
-        "in-person/remote/hybrid": "on-site",
+        "in-person/remote/hybrid": "in-person",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
             "SQL",
@@ -590,6 +677,7 @@
             "Power BI",
             "Power Automate",
             "Excel",
+            "Power Query",
             "Athena One",
             "Athena Data View",
             "Azure",
@@ -599,6 +687,8 @@
     },
     {
         "ID": "in-3f5483a9354a0f0c",
+        "location": "Las Vegas, NV, US",
+        "date": "2026-03-06",
         "years_experience": "2-4 years",
         "salary": "N/A",
         "in-person/remote/hybrid": "N/A",
@@ -617,6 +707,8 @@
     },
     {
         "ID": "in-0806f83702824922",
+        "location": "Las Vegas, NV, US",
+        "date": "2026-03-05",
         "years_experience": "N/A",
         "salary": "N/A",
         "in-person/remote/hybrid": "in-person",
@@ -628,12 +720,15 @@
         ],
         "tools": [
             "Excel",
-            "PowerBI"
+            "PowerBI",
+            "MS Office Suite"
         ]
     },
     {
         "ID": "in-fcf0fd8e788c3178",
-        "years_experience": "4 years",
+        "location": "Las Vegas, NV, US",
+        "date": "2026-03-04",
+        "years_experience": "4",
         "salary": "$77,000 - $202,000",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
@@ -644,43 +739,56 @@
             "Oracle Data Integrator",
             "Oracle Data Visualization",
             "Oracle Machine Learning",
-            "Oracle FAW/FDI",
+            "Oracle FAW",
+            "Oracle FDI",
+            "OAC",
             "Power BI",
             "Power Query",
             "Amazon AWS",
+            "Redshift",
             "Microsoft Azure"
         ]
     },
     {
         "ID": "in-67a8b24c6cd59c02",
+        "location": "Santa Clarita, CA, US",
+        "date": "2026-03-12",
         "years_experience": "3-5 years",
         "salary": "N/A",
         "in-person/remote/hybrid": "in-person",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
         "tools": [
-            "Microsoft Excel"
+            "Excel"
         ]
     },
     {
         "ID": "in-518707b099760fd8",
+        "location": "Manhattan Beach, CA, US",
+        "date": "2026-03-11",
         "years_experience": "5+",
         "salary": "$150,000-$185,000/yr USD",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
-        "tools": "Claude, Stable Diffusion"
+        "tools": [
+            "Claude",
+            "Stable Diffusion"
+        ]
     },
     {
         "ID": "in-089f8147c2b6b910",
+        "location": "El Segundo, CA, US",
+        "date": "2026-03-10",
         "years_experience": "N/A",
-        "salary": "$36,000.00 - $49,000.00 per year",
-        "in-person/remote/hybrid": "Hybrid remote",
+        "salary": "$36,000.00 - $49,000.00",
+        "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "parttime",
         "programming_languages": [
             "SQL",
             "R",
             "Python",
+            "Bash",
             "VBA"
         ],
         "tools": [
@@ -697,22 +805,27 @@
             "Microsoft SQL Server",
             "Oracle",
             "Talend",
-            "Bash",
-            "Unix shell",
+            "Unix",
             "Visio"
         ]
     },
     {
         "ID": "in-eabf55fae1abe98c",
+        "location": "Pasadena, CA, US",
+        "date": "2026-03-09",
         "years_experience": "N/A",
-        "salary": "Up to $25.00/hour (undergraduate), up to $27.00/hour (graduate)",
+        "salary": "up to $27.00 per hour",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "internship",
         "programming_languages": "N/A",
-        "tools": "SharePoint"
+        "tools": [
+            "SharePoint"
+        ]
     },
     {
         "ID": "in-e255d3b649bfb647",
+        "location": "Carlsbad, CA, US",
+        "date": "2026-03-09",
         "years_experience": "6+",
         "salary": "N/A",
         "in-person/remote/hybrid": "N/A",
@@ -736,6 +849,8 @@
     },
     {
         "ID": "in-f42fe62dd73ad5b9",
+        "location": "Costa Mesa, CA, US",
+        "date": "2026-03-09",
         "years_experience": "8+",
         "salary": "N/A",
         "in-person/remote/hybrid": "N/A",
@@ -758,6 +873,8 @@
     },
     {
         "ID": "in-0006c6054307a0cc",
+        "location": "City of Industry, CA, US",
+        "date": "2026-03-09",
         "years_experience": "N/A",
         "salary": "N/A",
         "in-person/remote/hybrid": "N/A",
@@ -773,16 +890,22 @@
     },
     {
         "ID": "in-6a2debf08401982a",
+        "location": "Victoria, CA, US",
+        "date": "2026-03-09",
         "years_experience": "5+",
-        "salary": "$93,000 - $112,000",
-        "in-person/remote/hybrid": "hybrid/remote",
+        "salary": "$93,000.00 - $112,000.00",
+        "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
-        "tools": "Genesys Cloud"
+        "tools": [
+            "Genesys Cloud"
+        ]
     },
     {
         "ID": "in-979b6078b798d2eb",
-        "years_experience": "3-5 years",
+        "location": "San Diego, CA, US",
+        "date": "2026-03-08",
+        "years_experience": "3 years",
         "salary": "$92,000 - $127,000",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
@@ -793,16 +916,19 @@
             "JavaScript"
         ],
         "tools": [
-            "Excel",
             "SharePoint",
+            "Excel",
             "Power BI",
             "Tableau",
             "Epicor Eclipse",
+            "Power Platform",
             "Power Automate"
         ]
     },
     {
         "ID": "in-2a4334e32416b0c1",
+        "location": "San Diego, CA, US",
+        "date": "2026-03-08",
         "years_experience": "3-5 years",
         "salary": "$139,500 - $258,100",
         "in-person/remote/hybrid": "N/A",
@@ -819,6 +945,8 @@
     },
     {
         "ID": "in-0b7f22092468c95d",
+        "location": "San Diego, CA, US",
+        "date": "2026-03-08",
         "years_experience": "3-5 years",
         "salary": "$139,500 - $258,100",
         "in-person/remote/hybrid": "N/A",
@@ -835,6 +963,8 @@
     },
     {
         "ID": "in-810bf661f557b670",
+        "location": "Culver City, CA, US",
+        "date": "2026-03-08",
         "years_experience": "5+",
         "salary": "$110,400 - $168,500",
         "in-person/remote/hybrid": "N/A",
@@ -851,31 +981,40 @@
     },
     {
         "ID": "in-aa983c2c69c625a6",
+        "location": "Downey, CA, US",
+        "date": "2026-03-08",
         "years_experience": "N/A",
         "salary": "N/A",
         "in-person/remote/hybrid": "in-person",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
-        "tools": "spreadsheets"
+        "tools": [
+            "Health Connect"
+        ]
     },
     {
         "ID": "in-5bd927bdc78e39d6",
+        "location": "Santa Ana, CA, US",
+        "date": "2026-03-08",
         "years_experience": "3-5 years",
         "salary": "$82,542 - $137,570",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
         "tools": [
-            "Tableau",
             "Workday",
-            "Excel",
+            "Tableau",
             "Cognos Analytics",
-            "Power BI"
+            "Power BI",
+            "Excel",
+            "Power Query"
         ]
     },
     {
         "ID": "in-cda94fe5dea606b0",
-        "years_experience": "2\u20134 years",
+        "location": "Newport Beach, CA, US",
+        "date": "2026-03-08",
+        "years_experience": "2-4",
         "salary": "$69,000.00\u2013$93,000.00",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
@@ -884,18 +1023,20 @@
     },
     {
         "ID": "in-6b1ce4fc663a20e4",
+        "location": "San Diego, CA, US",
+        "date": "2026-03-08",
         "years_experience": "1-2 years",
-        "salary": "$76,500.00 - $114,700.00",
+        "salary": "$76,500 - $114,700",
         "in-person/remote/hybrid": "in-person",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
             "R",
             "Python",
             "SAS",
-            "SQL",
-            "Hive"
+            "SQL"
         ],
         "tools": [
+            "Hive",
             "Hadoop",
             "PowerPoint",
             "Adobe Photoshop",
@@ -904,6 +1045,8 @@
     },
     {
         "ID": "in-a6306bbd8772229d",
+        "location": "Burbank, CA, US",
+        "date": "2026-03-08",
         "years_experience": "N/A",
         "salary": "N/A",
         "in-person/remote/hybrid": "hybrid",
@@ -924,14 +1067,14 @@
     },
     {
         "ID": "in-bcc8b2f729d37815",
-        "years_experience": "4\u20135 years",
+        "location": "San Diego, CA, US",
+        "date": "2026-03-08",
+        "years_experience": "4-5 years",
         "salary": "$24.00-30.00 per hour",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
-            "SQL",
-            "T-SQL",
-            "DAX"
+            "T-SQL"
         ],
         "tools": [
             "Power BI",
@@ -942,7 +1085,9 @@
     },
     {
         "ID": "in-3f4bde9e1f2444ad",
-        "years_experience": "3+ years",
+        "location": "Remote \u2013 USA, Canada OR Mexico",
+        "date": "2026-03-08",
+        "years_experience": "3+",
         "salary": "$28/hour",
         "in-person/remote/hybrid": "remote",
         "fulltime/parttime/internship": "fulltime",
@@ -950,26 +1095,30 @@
             "SQL"
         ],
         "tools": [
-            "Excel",
+            "Microsoft Excel",
+            "AIC",
             "SalesForce CRM",
             "Microsoft Office Suite"
         ]
     },
     {
         "ID": "in-8381366eb39919d3",
+        "location": "West Hills, CA, US",
+        "date": "2026-03-08",
         "years_experience": "N/A",
-        "salary": "$70,304 annually",
+        "salary": "$70,304",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
-            "Visual Basic",
-            "SQL"
+            "SQL",
+            "Visual Basic"
         ],
         "tools": [
             "Crystal reports",
-            "MS Access",
+            "Access",
             "Excel",
-            "MS SQL 2005/2000",
+            "MS SQL 2005",
+            "MS SQL 2000",
             "Access Express",
             "NextGen",
             "EZCap"
@@ -977,7 +1126,9 @@
     },
     {
         "ID": "in-a4cfbb65cb410c71",
-        "years_experience": "7+ years",
+        "location": "Orange, CA, US",
+        "date": "2026-03-04",
+        "years_experience": "7+",
         "salary": "$130,332.00 - $195,498.00",
         "in-person/remote/hybrid": "remote",
         "fulltime/parttime/internship": "fulltime",
@@ -990,19 +1141,22 @@
             "SSAS",
             "Azure Data Factory",
             "Microsoft Azure",
+            "MS SQL Server",
             "AWS",
             "GCP"
         ]
     },
     {
         "ID": "in-93c498566d248a05",
+        "location": "Culver City, CA, US",
+        "date": "2026-02-03",
         "years_experience": "5+",
-        "salary": "88,100 - 169,500 USD annually",
+        "salary": "88,100 - 154,100 USD",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
         "tools": [
-            "Excel",
+            "Microsoft Excel",
             "AWS QuickSight",
             "Tableau",
             "Salesforce"
@@ -1010,27 +1164,21 @@
     },
     {
         "ID": "in-dd7ead4d23021def",
+        "location": "Norco, CA, US",
+        "date": "2026-01-20",
         "years_experience": "N/A",
-        "salary": "$31.99/hour",
+        "salary": "$31.99 per hour",
         "in-person/remote/hybrid": "in-person",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
         "tools": [
-            "Excel",
-            "NSWC Corona PA analysis tools"
+            "Excel"
         ]
     },
     {
-        "ID": "id",
-        "years_experience": "N/A",
-        "salary": "N/A",
-        "in-person/remote/hybrid": "N/A",
-        "fulltime/parttime/internship": "N/A",
-        "programming_languages": "N/A",
-        "tools": "N/A"
-    },
-    {
         "ID": "in-96b52635fe56ae17",
+        "location": "Universal City, CA, US",
+        "date": "2026-03-10",
         "years_experience": "5+",
         "salary": "$110,000 - $140,000",
         "in-person/remote/hybrid": "hybrid",
@@ -1055,9 +1203,11 @@
     },
     {
         "ID": "in-f57f0a7a3fdfc55e",
-        "years_experience": "10 years",
+        "location": "Pasadena, CA",
+        "date": "2026-03-08",
+        "years_experience": "10",
         "salary": "$105,000/Annual",
-        "in-person/remote/hybrid": "in-person",
+        "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
         "tools": [
@@ -1073,8 +1223,10 @@
     },
     {
         "ID": "in-156cb1c5a9bbca75",
+        "location": "San Diego, CA, US",
+        "date": "2026-03-06",
         "years_experience": "7+",
-        "salary": "$144,000 - $220,500",
+        "salary": "$144,000 - $195,000",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
@@ -1091,8 +1243,10 @@
     },
     {
         "ID": "in-16c228f8f83776cb",
+        "location": "Carson, CA, US",
+        "date": "2026-03-06",
         "years_experience": "N/A",
-        "salary": "$18.00 per hour",
+        "salary": "From $18.00 per hour",
         "in-person/remote/hybrid": "In person",
         "fulltime/parttime/internship": "parttime",
         "programming_languages": [
@@ -1114,6 +1268,8 @@
     },
     {
         "ID": "in-fcbedc42308e33e2",
+        "location": "Monterey Park, CA, US",
+        "date": "2026-03-06",
         "years_experience": "2-4 years",
         "salary": "$72,747.14 - $93,368.83",
         "in-person/remote/hybrid": "hybrid",
@@ -1122,23 +1278,29 @@
             "SQL"
         ],
         "tools": [
-            "Microsoft Office Suite",
+            "Microsoft Office",
             "Word",
             "Excel"
         ]
     },
     {
         "ID": "in-bc3e712bb26bbc29",
-        "years_experience": "2 years",
+        "location": "Thousand Oaks, CA, US",
+        "date": "2026-03-06",
+        "years_experience": "2",
         "salary": "$80,594 - $120,892",
-        "in-person/remote/hybrid": "In-person",
-        "fulltime/parttime/internship": "Full-time",
+        "in-person/remote/hybrid": "in-person",
+        "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
-        "tools": "GIS"
+        "tools": [
+            "GIS"
+        ]
     },
     {
         "ID": "in-dcf4bcec00fb6280",
-        "years_experience": "3 years",
+        "location": "Beverly Hills, CA, US",
+        "date": "2026-03-05",
+        "years_experience": "3",
         "salary": "N/A",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
@@ -1152,11 +1314,13 @@
             "Tableau",
             "Power BI",
             "REDCap",
-            "SQL Server Integration Services (SSIS)"
+            "SQL Server Integration Services"
         ]
     },
     {
         "ID": "in-2f46e2ae5d4034db",
+        "location": "Los Angeles, CA, US",
+        "date": "2026-03-05",
         "years_experience": "3-6+",
         "salary": "$101,745.00-$122,400.00",
         "in-person/remote/hybrid": "N/A",
@@ -1164,6 +1328,10 @@
         "programming_languages": "N/A",
         "tools": [
             "Workday",
+            "Discovery Boards",
+            "Composite Reports",
+            "Advanced Reports",
+            "Calculated Fields",
             "Looker",
             "Tableau",
             "Power BI"
@@ -1171,6 +1339,8 @@
     },
     {
         "ID": "in-0dfb1199277ff45d",
+        "location": "Bellflower, CA, US",
+        "date": "2026-03-05",
         "years_experience": "3-6+",
         "salary": "$101,745.00-$122,400.00",
         "in-person/remote/hybrid": "N/A",
@@ -1178,6 +1348,9 @@
         "programming_languages": "N/A",
         "tools": [
             "Workday",
+            "Discovery Boards",
+            "Composite Reports",
+            "Advanced Reports",
             "Looker",
             "Tableau",
             "Power BI"
@@ -1185,7 +1358,9 @@
     },
     {
         "ID": "in-9d6b5c7457db9ea8",
-        "years_experience": "10+",
+        "location": "Brea, CA, US",
+        "date": "2026-03-05",
+        "years_experience": "10",
         "salary": "$126,820.00 - $149,200.00",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
@@ -1199,9 +1374,11 @@
     },
     {
         "ID": "in-4fe1f667ca60b9de",
+        "location": "Pacoima, CA, US",
+        "date": "2026-03-05",
         "years_experience": "2-4+ years",
         "salary": "$90,000 \u2013 $120,000/year",
-        "in-person/remote/hybrid": "in-person",
+        "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
             "Python",
@@ -1219,6 +1396,8 @@
     },
     {
         "ID": "in-fbace73d4798825f",
+        "location": "Los Angeles, CA, US",
+        "date": "2026-03-05",
         "years_experience": "8+",
         "salary": "$134,000 - $160,000 USD",
         "in-person/remote/hybrid": "hybrid",
@@ -1235,6 +1414,8 @@
     },
     {
         "ID": "in-8c9596929395c36a",
+        "location": "San Diego, CA, US",
+        "date": "2026-03-05",
         "years_experience": "8+",
         "salary": "$130,000-$160,000",
         "in-person/remote/hybrid": "hybrid",
@@ -1254,9 +1435,11 @@
     },
     {
         "ID": "in-005800f609eb3529",
+        "location": "San Diego, CA, US",
+        "date": "2026-03-05",
         "years_experience": "7+",
-        "salary": "$144,000 - $220,500",
-        "in-person/remote/hybrid": "in-person",
+        "salary": "$144,000 - $195,000",
+        "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
             "SQL"
@@ -1272,8 +1455,10 @@
     },
     {
         "ID": "in-f5482f05e3de6df4",
+        "location": "Los Angeles, CA, US",
+        "date": "2026-03-05",
         "years_experience": "8+",
-        "salary": "$194,360-$268,750",
+        "salary": "$194,360-$242,950",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
@@ -1285,6 +1470,8 @@
     },
     {
         "ID": "in-4c1960945e778175",
+        "location": "San Diego, CA, US",
+        "date": "2026-03-05",
         "years_experience": "8+",
         "salary": "$172,000 - $232,500",
         "in-person/remote/hybrid": "N/A",
@@ -1303,6 +1490,8 @@
     },
     {
         "ID": "in-cc0b61df48e3955a",
+        "location": "Valencia, CA, US",
+        "date": "2026-03-05",
         "years_experience": "2-5 years",
         "salary": "N/A",
         "in-person/remote/hybrid": "N/A",
@@ -1314,13 +1503,15 @@
             "Microsoft Excel",
             "Power BI",
             "Tableau",
-            "Warehouse Management Systems (WMS)"
+            "Warehouse Management Systems"
         ]
     },
     {
         "ID": "in-be9ad195ebcaa42e",
-        "years_experience": "3-4 years",
-        "salary": "$71,600 - $81,000",
+        "location": "Irvine, CA, US",
+        "date": "2026-03-05",
+        "years_experience": "3-4",
+        "salary": "$71,600- $81,000",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
@@ -1334,6 +1525,8 @@
     },
     {
         "ID": "in-a1fa47519cabaf94",
+        "location": "Irvine, CA, US",
+        "date": "2026-03-05",
         "years_experience": "7",
         "salary": "N/A",
         "in-person/remote/hybrid": "in-person",
@@ -1344,29 +1537,34 @@
             "XSLT"
         ],
         "tools": [
-            "BI Publisher (BIP)",
+            "BI Publisher",
             "OTBI",
-            "Fusion Data Intelligence (FDI)",
+            "Fusion Data Intelligence",
             "Oracle ERP Fusion Cloud",
-            "Oracle Analytics Cloud (OAC)",
+            "Excel",
+            "PDF",
+            "Oracle Analytics Cloud",
             "Tableau",
-            "Power BI",
-            "Excel"
+            "Power BI"
         ]
     },
     {
         "ID": "in-6d0f23baeb6c0f86",
+        "location": "Costa Mesa, CA, US",
+        "date": "2026-03-05",
         "years_experience": "3 years",
         "salary": "N/A",
         "in-person/remote/hybrid": "N/A",
-        "fulltime/parttime/internship": "fulltime",
+        "fulltime/parttime/internship": "N/A",
         "programming_languages": "N/A",
         "tools": "N/A"
     },
     {
         "ID": "in-82cf9b84c8250927",
+        "location": "Long Beach, CA, US",
+        "date": "2026-03-05",
         "years_experience": "3+",
-        "salary": "$92,400 - $159,133",
+        "salary": "$92,400 to $159,133",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
@@ -1383,24 +1581,36 @@
     },
     {
         "ID": "in-558e0be426655244",
-        "years_experience": "2+ years",
+        "location": "Orange, CA, US",
+        "date": "2026-03-05",
+        "years_experience": "2",
         "salary": "$27.71 an hour",
         "in-person/remote/hybrid": "in-person",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
-        "tools": "Excel, Visio"
+        "tools": [
+            "Excel",
+            "Visio"
+        ]
     },
     {
         "ID": "in-94ff3a621262e50f",
-        "years_experience": "2+ years",
+        "location": "Los Angeles, CA, US",
+        "date": "2026-03-05",
+        "years_experience": "2+",
         "salary": "$70,304.00-$104,832.00",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
-        "tools": "EMRs, APIs, LLMs"
+        "tools": [
+            "APIs",
+            "LLMs"
+        ]
     },
     {
         "ID": "in-1d0458d2ded9067b",
+        "location": "Corona, CA, US",
+        "date": "2026-03-05",
         "years_experience": "N/A",
         "salary": "$75k-85k",
         "in-person/remote/hybrid": "Remote",
@@ -1416,6 +1626,8 @@
     },
     {
         "ID": "in-f56580dd86597a67",
+        "location": "Los Angeles, CA, US",
+        "date": "2026-03-04",
         "years_experience": "5+",
         "salary": "N/A",
         "in-person/remote/hybrid": "hybrid",
@@ -1435,6 +1647,8 @@
     },
     {
         "ID": "in-c2591cd6d48c0825",
+        "location": "Los Angeles, CA, US",
+        "date": "2026-03-04",
         "years_experience": "4 years",
         "salary": "$77,000 - $202,000",
         "in-person/remote/hybrid": "hybrid",
@@ -1446,16 +1660,21 @@
             "Oracle Data Integrator",
             "Oracle Data Visualization",
             "Oracle Machine Learning",
-            "Oracle FAW/FDI",
+            "Oracle FAW",
+            "Oracle FDI",
+            "OAC",
             "Power BI",
             "Power Query",
             "Amazon AWS",
+            "Redshift",
             "Microsoft Azure"
         ]
     },
     {
         "ID": "in-adcc37cc99723790",
-        "years_experience": "4 years",
+        "location": "Irvine, CA, US",
+        "date": "2026-03-04",
+        "years_experience": "4",
         "salary": "$77,000 - $202,000",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
@@ -1466,7 +1685,8 @@
             "Oracle Data Integrator",
             "Oracle Data Visualization",
             "Oracle Machine Learning",
-            "Oracle FAW/FDI",
+            "Oracle FAW",
+            "Oracle FDI",
             "OAC",
             "Power BI",
             "Power Query",
@@ -1477,7 +1697,9 @@
     },
     {
         "ID": "in-15183a6ddbd74e9f",
-        "years_experience": "4 years",
+        "location": "San Diego, CA, US",
+        "date": "2026-03-04",
+        "years_experience": "4",
         "salary": "$77,000 - $202,000",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
@@ -1488,7 +1710,8 @@
             "Oracle Data Integrator",
             "Oracle Data Visualization",
             "Oracle Machine Learning",
-            "Oracle FAW/FDI",
+            "Oracle FAW",
+            "Oracle FDI",
             "OAC",
             "Power BI",
             "Power Query",
@@ -1499,7 +1722,9 @@
     },
     {
         "ID": "in-d8742d8e7f54c120",
-        "years_experience": "4-6 years",
+        "location": "Diamond Bar, CA, US",
+        "date": "2026-03-04",
+        "years_experience": "4",
         "salary": "$82,011.54 - $118,916.74 / Yearly",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
@@ -1519,8 +1744,10 @@
     },
     {
         "ID": "in-e06eb9bc06326389",
+        "location": "Commerce, CA, US",
+        "date": "2026-03-04",
         "years_experience": "1 year",
-        "salary": "$22.00 - $26.00 per hour",
+        "salary": "$22.00 to $26.00 per hour",
         "in-person/remote/hybrid": "in-person",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
@@ -1529,13 +1756,16 @@
             "DAX inventory",
             "WMS",
             "Artus BI",
-            "Category Analyzer"
+            "Category Analyzer",
+            "point of sale"
         ]
     },
     {
         "ID": "in-582c0a276b8821dd",
+        "location": "Glendora, CA, US",
+        "date": "2026-03-04",
         "years_experience": "1+",
-        "salary": "$23.00 \u2013 $29.00 per hour",
+        "salary": "$23.00 \u2013 $29.00",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
@@ -1548,8 +1778,10 @@
     },
     {
         "ID": "in-07f1e2da4cc21dc8",
+        "location": "Commerce, CA, US",
+        "date": "2026-03-04",
         "years_experience": "1 year",
-        "salary": "$22.00 - $26.00 per hour",
+        "salary": "$22.00 to $26.00 per hour",
         "in-person/remote/hybrid": "in-person",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
@@ -1563,8 +1795,10 @@
     },
     {
         "ID": "in-2449ce7ab8eb430b",
+        "location": "San Diego, CA, US",
+        "date": "2026-03-04",
         "years_experience": "3+",
-        "salary": "$99,500 - $188,000",
+        "salary": "$121,000 - $188,000",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
@@ -1579,8 +1813,10 @@
     },
     {
         "ID": "in-cf49940516bcaba5",
+        "location": "Los Angeles, CA, US",
+        "date": "2026-03-04",
         "years_experience": "3+",
-        "salary": "$99,500 - $188,000",
+        "salary": "$121,000 - $188,000",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
@@ -1595,8 +1831,10 @@
     },
     {
         "ID": "in-ba6b39c16d13d06d",
+        "location": "San Diego, CA, US",
+        "date": "2026-03-04",
         "years_experience": "3+",
-        "salary": "$117,000 - $221,000",
+        "salary": "$141,500 - $221,000",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
@@ -1607,13 +1845,16 @@
         "tools": [
             "Statsig",
             "Looker",
+            "LookML",
             "Databricks"
         ]
     },
     {
         "ID": "in-4587c9d682316ffe",
+        "location": "Los Angeles, CA, US",
+        "date": "2026-03-04",
         "years_experience": "3+",
-        "salary": "$117,000 - $221,000",
+        "salary": "$141,500 - $221,000",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
@@ -1629,8 +1870,10 @@
     },
     {
         "ID": "in-951582f3b3922232",
+        "location": "San Diego, CA, US",
+        "date": "2026-03-04",
         "years_experience": "3+",
-        "salary": "$102,500 - $148,000",
+        "salary": "$115,000 - $148,000",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
@@ -1641,17 +1884,19 @@
             "Databricks",
             "Looker",
             "Zendesk",
+            "Zendesk Explore",
             "MS Excel",
             "Google Sheets",
-            "Zendesk Explore",
             "Google Ads",
             "Meta Ads"
         ]
     },
     {
         "ID": "in-4e7870bcb93faed8",
+        "location": "Los Angeles, CA, US",
+        "date": "2026-03-04",
         "years_experience": "3+",
-        "salary": "$102,500 - $148,000",
+        "salary": "$115,000 - $148,000",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
@@ -1662,16 +1907,19 @@
             "Databricks",
             "Looker",
             "Zendesk",
-            "MS Excel",
             "Google Sheets",
+            "MS Excel",
+            "Zendesk Explore",
             "Google Ads",
             "Meta Ads"
         ]
     },
     {
         "ID": "in-f7ec882ba68c4bb3",
+        "location": "Irvine, CA, US",
+        "date": "2026-03-04",
         "years_experience": "N/A",
-        "salary": "$103,415.00 - $152,000.00",
+        "salary": "$103,415.00 to $152,000.00 per year",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
@@ -1679,6 +1927,8 @@
     },
     {
         "ID": "in-970c2c11b812d72d",
+        "location": "Irvine, CA, US",
+        "date": "2026-03-04",
         "years_experience": "8+",
         "salary": "$116,000.00 - $197,200.00",
         "in-person/remote/hybrid": "N/A",
@@ -1690,31 +1940,37 @@
         "tools": [
             "GCP",
             "Big Query",
-            "VertexAi",
+            "VertexAI",
             "Google Looker",
             "Qlik",
             "PowerBI",
-            "Plotly Dash"
+            "Plotly Dash",
+            "numpy",
+            "pandas",
+            "scikit-learn"
         ]
     },
     {
         "ID": "in-0e8c01d707b5f273",
+        "location": "Burbank, CA, US",
+        "date": "2026-03-04",
         "years_experience": "2+",
-        "salary": "$75,180.00 - $139,620.00",
+        "salary": "$75,180 - $139,620",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
         "tools": [
             "GCP",
-            "Atlassian Suite",
             "Jira",
             "Confluence",
             "Monday.com",
-            "Microsoft Office Suite"
+            "Microsoft Office"
         ]
     },
     {
         "ID": "in-2ad6c6a01bc71c3b",
+        "location": "Burbank, CA, US",
+        "date": "2026-03-04",
         "years_experience": "2+",
         "salary": "$75,180 - $139,620",
         "in-person/remote/hybrid": "N/A",
@@ -1726,11 +1982,13 @@
             "Jira",
             "Confluence",
             "Monday.com",
-            "Microsoft Office Suite"
+            "Microsoft Office"
         ]
     },
     {
         "ID": "in-cb312da96a61287c",
+        "location": "Burbank, CA, US",
+        "date": "2026-03-04",
         "years_experience": "2+",
         "salary": "$75,180.00 - $139,620.00",
         "in-person/remote/hybrid": "N/A",
@@ -1738,46 +1996,55 @@
         "programming_languages": "N/A",
         "tools": [
             "GCP",
-            "Atlassian Suite (Jira/Confluence)",
+            "Atlassian Suite",
+            "Jira",
+            "Confluence",
             "Monday.com",
             "Microsoft Office Suite"
         ]
     },
     {
         "ID": "in-7a7218ae21cf1a50",
-        "years_experience": "2+ years",
-        "salary": "$75,180.00 - $139,620.00",
-        "in-person/remote/hybrid": "N/A",
-        "fulltime/parttime/internship": "fulltime",
-        "programming_languages": "N/A",
-        "tools": [
-            "GCP",
-            "Atlassian Suite",
-            "Jira",
-            "Confluence",
-            "Monday.com",
-            "Microsoft Office Suite"
-        ]
-    },
-    {
-        "ID": "in-1a9646a9cb9c5a9d",
-        "years_experience": "2+ years",
+        "location": "Burbank, CA, US",
+        "date": "2026-03-04",
+        "years_experience": "2+",
         "salary": "$75,180 - $139,620",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
         "tools": [
             "GCP",
-            "Atlassian Suite",
             "Jira",
             "Confluence",
             "Monday.com",
-            "Microsoft Office Suite"
+            "Microsoft Office"
+        ]
+    },
+    {
+        "ID": "in-1a9646a9cb9c5a9d",
+        "location": "Burbank, CA, US",
+        "date": "2026-03-04",
+        "years_experience": "2+",
+        "salary": "$75,180.00 - $139,620.00",
+        "in-person/remote/hybrid": "N/A",
+        "fulltime/parttime/internship": "fulltime",
+        "programming_languages": "N/A",
+        "tools": [
+            "GCP",
+            "Jira",
+            "Confluence",
+            "Monday.com",
+            "Microsoft Office",
+            "Word",
+            "Excel",
+            "Powerpoint"
         ]
     },
     {
         "ID": "in-a5fafb247e328298",
-        "years_experience": "8+ years",
+        "location": "Irvine, CA, US",
+        "date": "2026-02-28",
+        "years_experience": "8+",
         "salary": "$116,000 - $197,200",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
@@ -1792,13 +2059,18 @@
             "Google Looker",
             "Qlik",
             "PowerBI",
-            "Plotly Dash"
+            "Plotly Dash",
+            "numpy",
+            "pandas",
+            "scikit-learn"
         ]
     },
     {
         "ID": "in-cb97f2415792de45",
+        "location": "Los Angeles, CA, US",
+        "date": "2026-02-16",
         "years_experience": "3+",
-        "salary": "$74,080 - $134,520",
+        "salary": "$76,480 - $134,520",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
@@ -1807,14 +2079,17 @@
             "R"
         ],
         "tools": [
-            "Power BI",
+            "Excel",
             "Salesforce",
+            "Power BI",
             "Tableau",
             "Jira"
         ]
     },
     {
         "ID": "in-f5f7de9f1550da0f",
+        "location": "San Diego, CA, US",
+        "date": "2025-10-30",
         "years_experience": "N/A",
         "salary": "$60,300 - $82,100 / Year",
         "in-person/remote/hybrid": "in-person",
@@ -1830,12 +2105,15 @@
             "Visio",
             "Macromedia Flash",
             "PowerPoint",
-            "Project"
+            "Project",
+            "CMMS"
         ]
     },
     {
         "ID": "in-3f424bc31aa0ee86",
-        "years_experience": "2+ years",
+        "location": "Long Beach, CA, US",
+        "date": "2026-03-13",
+        "years_experience": "2+",
         "salary": "N/A",
         "in-person/remote/hybrid": "in-person",
         "fulltime/parttime/internship": "fulltime",
@@ -1856,6 +2134,8 @@
     },
     {
         "ID": "in-f3425c21957c0ed1",
+        "location": "Orange, CA, US",
+        "date": "2026-03-12",
         "years_experience": "5+",
         "salary": "$85,696.00 - $128,543.00",
         "in-person/remote/hybrid": "remote",
@@ -1875,15 +2155,21 @@
     },
     {
         "ID": "in-d5b25072d0d3ed9e",
-        "years_experience": "2+ years",
+        "location": "Los Angeles, CA, US",
+        "date": "2026-03-12",
+        "years_experience": "2+",
         "salary": "N/A",
         "in-person/remote/hybrid": "remote",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
-        "tools": "Epic Professional Billing"
+        "tools": [
+            "Epic PB"
+        ]
     },
     {
         "ID": "in-05cbe7dd3be736f1",
+        "location": "Los Angeles, CA, US",
+        "date": "2026-03-12",
         "years_experience": "N/A",
         "salary": "$6,031.00 - $7,547.00 per Month",
         "in-person/remote/hybrid": "hybrid",
@@ -1893,11 +2179,14 @@
     },
     {
         "ID": "in-e06e9291d01542fb",
-        "years_experience": "4+ years",
+        "location": "Alhambra, CA, US",
+        "date": "2026-03-12",
+        "years_experience": "4+",
         "salary": "$10,214.44 - $10,678.10 monthly",
-        "in-person/remote/hybrid": "Hybrid",
+        "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
+            "SQL",
             "Transact-SQL"
         ],
         "tools": [
@@ -1917,7 +2206,9 @@
     },
     {
         "ID": "in-e1ec26b4b497acde",
-        "years_experience": "4 years",
+        "location": "CA, US",
+        "date": "2026-03-11",
+        "years_experience": "4",
         "salary": "N/A",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
@@ -1929,15 +2220,17 @@
         "tools": [
             "Tableau",
             "Power BI",
-            "Microsoft Excel",
-            "Microsoft Word",
-            "Microsoft PowerPoint",
-            "Microsoft Outlook"
+            "Excel",
+            "Word",
+            "PowerPoint",
+            "Outlook"
         ]
     },
     {
         "ID": "in-a27f045c3963396c",
-        "years_experience": "3+ years",
+        "location": "El Segundo, CA, US",
+        "date": "2026-03-11",
+        "years_experience": "3+",
         "salary": "$135,150-$182,850",
         "in-person/remote/hybrid": "in-person",
         "fulltime/parttime/internship": "fulltime",
@@ -1946,26 +2239,32 @@
             "Python"
         ],
         "tools": [
+            "ERP",
             "MRP",
-            "Excel",
-            "Power BI",
-            "Tableau",
-            "Cognos",
             "APS",
-            "MES"
+            "MES",
+            "Microsoft Excel",
+            "Power Point",
+            "Tableau",
+            "Power BI",
+            "Cognos"
         ]
     },
     {
         "ID": "in-0b6b8f0498f96b88",
-        "years_experience": "5+ years",
+        "location": "Newport Beach, CA, US",
+        "date": "2026-03-11",
+        "years_experience": "5+",
         "salary": "$113,490.00 - $138,710.00",
-        "in-person/remote/hybrid": "in-person",
+        "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
         "tools": "N/A"
     },
     {
         "ID": "in-4500481bcf4a7373",
+        "location": "Los Angeles, CA, US",
+        "date": "2026-03-11",
         "years_experience": "N/A",
         "salary": "$58,827 to $135,657 per year",
         "in-person/remote/hybrid": "hybrid",
@@ -1975,6 +2274,8 @@
     },
     {
         "ID": "in-7f792e9e5724c671",
+        "location": "Irvine, CA, US",
+        "date": "2026-03-11",
         "years_experience": "3",
         "salary": "$72,500 - $80,000",
         "in-person/remote/hybrid": "in-person",
@@ -1989,8 +2290,10 @@
     },
     {
         "ID": "in-6111e4d60fb99fa4",
+        "location": "Los Angeles, CA, US",
+        "date": "2026-03-11",
         "years_experience": "2-3 years",
-        "salary": "$105,000 - $124,000",
+        "salary": "$116,000 - $124,000",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
@@ -1998,9 +2301,11 @@
     },
     {
         "ID": "in-e48f86e1a00dbd49",
-        "years_experience": "2+ years",
+        "location": "Long Beach, CA, US",
+        "date": "2026-03-11",
+        "years_experience": "2",
         "salary": "N/A",
-        "in-person/remote/hybrid": "in-person",
+        "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
             "R",
@@ -2019,8 +2324,10 @@
     },
     {
         "ID": "in-314ca75df0cc5bc2",
-        "years_experience": "2+ years",
-        "salary": "$119,000 to $125,000",
+        "location": "San Diego, CA, US",
+        "date": "2026-03-11",
+        "years_experience": "2",
+        "salary": "$119,000 - $125,000",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
@@ -2035,7 +2342,7 @@
             "SharePoint Online",
             "Microsoft Teams",
             "OneDrive for Business",
-            "SharePoint Framework (SPFx)",
+            "SharePoint Framework",
             "Power Automate",
             "Power Virtual Agents",
             "Azure Synapse Analytics",
@@ -2044,13 +2351,16 @@
     },
     {
         "ID": "in-be809045706001fe",
-        "years_experience": "3\u20135 years",
-        "salary": "$80,000.00-$85,000.00 USD annually",
+        "location": "Los Angeles, CA, US",
+        "date": "2026-03-11",
+        "years_experience": "3-5",
+        "salary": "$80,000.00-$85,000.00",
         "in-person/remote/hybrid": "remote",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
         "tools": [
             "Service Now",
+            "ADP",
             "ADP Workforce Now",
             "ADP Vantage",
             "Alteryx",
@@ -2060,9 +2370,11 @@
     },
     {
         "ID": "in-d223eacd34cb1f7d",
+        "location": "Irvine, CA, US",
+        "date": "2026-03-11",
         "years_experience": "3-5 years",
-        "salary": "$115,000 - $135,000",
-        "in-person/remote/hybrid": "N/A",
+        "salary": "$115,000- $135,000",
+        "in-person/remote/hybrid": "in-person",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
             "SQL"
@@ -2071,8 +2383,10 @@
     },
     {
         "ID": "in-d82591623056187a",
-        "years_experience": "1-2+",
-        "salary": "$72,100.00 - $125,200.00",
+        "location": "Redondo Beach, CA, US",
+        "date": "2026-03-10",
+        "years_experience": "1-2",
+        "salary": "$72,100 - $125,200",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
@@ -2092,13 +2406,15 @@
     },
     {
         "ID": "in-8a5c05754369f18c",
+        "location": "Culver City, CA, US",
+        "date": "2026-02-03",
         "years_experience": "5+",
-        "salary": "88,100 - 169,500 USD annually",
+        "salary": "88,100.00 - 154,100.00 USD",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
         "tools": [
-            "Excel",
+            "Microsoft Excel",
             "AWS QuickSight",
             "Tableau",
             "Salesforce"
@@ -2106,42 +2422,55 @@
     },
     {
         "ID": "in-1be6f111f34bf8ce",
+        "location": "Las Vegas, NV, US",
+        "date": "2026-03-12",
         "years_experience": "3-5 years",
         "salary": "N/A",
         "in-person/remote/hybrid": "Remote",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
-        "tools": "N/A"
+        "tools": [
+            "SaaS"
+        ]
     },
     {
         "ID": "in-64712096077a046f",
+        "location": "Las Vegas, NV, US",
+        "date": "2026-03-11",
         "years_experience": "8-14 years",
         "salary": "N/A",
         "in-person/remote/hybrid": "in-person",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
-        "tools": "MBSE"
+        "tools": "N/A"
     },
     {
         "ID": "in-1a7e0d54cb4c0467",
+        "location": "Las Vegas, NV, US",
+        "date": "2026-03-11",
         "years_experience": "3-5 years",
         "salary": "$67,398.00 - $97,732.00",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
-        "programming_languages": "N/A",
+        "programming_languages": [
+            "N/A"
+        ],
         "tools": [
             "Microsoft Excel",
+            "ESRI Survey123",
             "Microsoft Power Platform",
             "Power BI",
             "Power Automate",
             "Power Apps",
             "Co-Pilot Studio",
-            "ESRI Survey123",
+            "ESRI platforms",
             "SharePoint"
         ]
     },
     {
         "ID": "in-37307c21be5e8eea",
+        "location": "Las Vegas, NV, US",
+        "date": "2026-03-11",
         "years_experience": "3+",
         "salary": "N/A",
         "in-person/remote/hybrid": "in-person",
@@ -2150,13 +2479,13 @@
         "tools": [
             "Microsoft Excel",
             "SAP",
-            "CCTV",
-            "Alarm systems",
-            "EAS"
+            "CCTV"
         ]
     },
     {
         "ID": "in-cdc25e20cfd063f1",
+        "location": "Santa Clara, CA, US",
+        "date": "2026-03-12",
         "years_experience": "N/A",
         "salary": "N/A",
         "in-person/remote/hybrid": "in-person",
@@ -2171,6 +2500,8 @@
     },
     {
         "ID": "in-3ece30ae59aaa5b4",
+        "location": "Mountain View, CA, US",
+        "date": "2026-03-12",
         "years_experience": "10+",
         "salary": "$227K - $307K",
         "in-person/remote/hybrid": "N/A",
@@ -2192,7 +2523,9 @@
     },
     {
         "ID": "in-87392c882a42bac1",
-        "years_experience": "7 years",
+        "location": "San Jose, CA, US",
+        "date": "2026-03-12",
+        "years_experience": "7",
         "salary": "$146,100.00 - $190,300.00",
         "in-person/remote/hybrid": "remote",
         "fulltime/parttime/internship": "fulltime",
@@ -2206,22 +2539,24 @@
     },
     {
         "ID": "in-9b8470e1654c87de",
+        "location": "Stanford, CA, US",
+        "date": "2026-03-11",
         "years_experience": "N/A",
-        "salary": "$80,148 - $99,773",
+        "salary": "$80,148 to $99,773",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
             "R",
             "Python"
         ],
-        "tools": [
-            "N/A"
-        ]
+        "tools": "N/A"
     },
     {
         "ID": "in-7dd3d496a6767763",
+        "location": "Milpitas, CA, US",
+        "date": "2026-03-11",
         "years_experience": "3-5 years",
-        "salary": "$100,500.00 - $170,900.00",
+        "salary": "$100,500.00 - $170,900.00 Annually",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
@@ -2234,9 +2569,11 @@
     },
     {
         "ID": "in-be90e25364fb7716",
+        "location": "Mountain View, CA, US",
+        "date": "2026-03-11",
         "years_experience": "10+",
         "salary": "$227K - $307K",
-        "in-person/remote/hybrid": "in-person",
+        "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
             "SQL",
@@ -2255,8 +2592,10 @@
     },
     {
         "ID": "in-df9574a0fde318ca",
+        "location": "Sunnyvale, CA, US",
+        "date": "2026-03-11",
         "years_experience": "N/A",
-        "salary": "$105,000 - $110,000 per year",
+        "salary": "$105,000 - $110,000",
         "in-person/remote/hybrid": "in-person",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
@@ -2278,16 +2617,22 @@
     },
     {
         "ID": "in-20cb8cd5257044fa",
+        "location": "San Diego, CA, US",
+        "date": "2026-03-13",
         "years_experience": "N/A",
         "salary": "$3,861.00 - $6,276.00 per Month",
-        "in-person/remote/hybrid": "in-person",
+        "in-person/remote/hybrid": "In-person",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
-        "tools": "Learning Management System (LMS)"
+        "tools": [
+            "Learning Management System"
+        ]
     },
     {
         "ID": "in-38dc9a944b58f380",
-        "years_experience": "3\u20135 years",
+        "location": "Los Angeles, CA, US",
+        "date": "2026-03-13",
+        "years_experience": "3-5 years",
         "salary": "N/A",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
@@ -2301,6 +2646,8 @@
     },
     {
         "ID": "in-934825e3ac72daac",
+        "location": "Pasadena, CA, US",
+        "date": "2026-03-13",
         "years_experience": "1+",
         "salary": "N/A",
         "in-person/remote/hybrid": "N/A",
@@ -2318,12 +2665,13 @@
             "Tableau",
             "Looker",
             "EZCAP",
-            "MS Office Suite",
             "Excel"
         ]
     },
     {
         "ID": "in-5deb1e4ead8a8d7e",
+        "location": "San Bernardino, CA, US",
+        "date": "2026-03-13",
         "years_experience": "3+",
         "salary": "N/A",
         "in-person/remote/hybrid": "N/A",
@@ -2340,6 +2688,8 @@
     },
     {
         "ID": "in-e4a7cf48b302bb6c",
+        "location": "San Diego, CA, US",
+        "date": "2026-03-13",
         "years_experience": "0",
         "salary": "N/A",
         "in-person/remote/hybrid": "in-person",
@@ -2357,8 +2707,10 @@
     },
     {
         "ID": "in-89ac6ddea63feeb5",
+        "location": "Woodland Hills, CA, US",
+        "date": "2026-03-13",
         "years_experience": "N/A",
-        "salary": "$67,500 \u2013 $95,000 annually",
+        "salary": "$67,500 \u2013 $95,000",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
@@ -2374,6 +2726,8 @@
     },
     {
         "ID": "in-410ecca0380708f6",
+        "location": "Culver City, CA, US",
+        "date": "2026-03-12",
         "years_experience": "N/A",
         "salary": "$27/hour",
         "in-person/remote/hybrid": "in-person",
@@ -2388,17 +2742,24 @@
     },
     {
         "ID": "in-b0b9114220317b06",
-        "years_experience": "2 years",
+        "location": "Northridge, CA, US",
+        "date": "2026-03-12",
+        "years_experience": "2",
         "salary": "$4799 - $5850 per month",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
-        "tools": "CHRS, SOLAR HR"
+        "tools": [
+            "CHRS",
+            "SOLAR HR"
+        ]
     },
     {
         "ID": "in-f36d0d83463fd91f",
+        "location": "Culver City, CA, US",
+        "date": "2026-02-03",
         "years_experience": "5+",
-        "salary": "88,100 - 169,500 USD annually",
+        "salary": "88,100.00 - 154,100.00 USD",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
@@ -2411,13 +2772,14 @@
     },
     {
         "ID": "in-a4306eb4f5155b5e",
+        "location": "San Francisco, CA, US",
+        "date": "2026-03-13",
         "years_experience": "4",
         "salary": "N/A",
         "in-person/remote/hybrid": "in-person",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
         "tools": [
-            "Microsoft Windows",
             "Excel",
             "Word",
             "Access",
@@ -2427,19 +2789,20 @@
             "Adobe",
             "FFMS",
             "Webview",
-            "Concur",
-            "RMS"
+            "RMS",
+            "Concur"
         ]
     },
     {
         "ID": "in-e37542fe45dc2b9d",
+        "location": "Sacramento, CA, US",
+        "date": "2026-03-13",
         "years_experience": "N/A",
         "salary": "$6,031.00 - $7,547.00 per Month",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
         "tools": [
-            "Microsoft Office",
             "Outlook",
             "Word",
             "Excel"
@@ -2447,6 +2810,8 @@
     },
     {
         "ID": "in-13349de41e796114",
+        "location": "Sacramento County, CA, US",
+        "date": "2026-03-13",
         "years_experience": "N/A",
         "salary": "$6,031.00 - $7,547.00 per Month",
         "in-person/remote/hybrid": "hybrid",
@@ -2461,27 +2826,32 @@
     },
     {
         "ID": "in-fc5fe9d9ab1868c5",
+        "location": "Sacramento County, CA",
+        "date": "2026-03-13",
         "years_experience": "N/A",
         "salary": "$6,031.00 - $7,775.00 per Month",
         "in-person/remote/hybrid": "Hybrid",
-        "fulltime/parttime/internship": "fulltime",
+        "fulltime/parttime/internship": "Full Time",
         "programming_languages": "N/A",
         "tools": "N/A"
     },
     {
         "ID": "in-331fd9a82aa9bfb4",
+        "location": "Sacramento, CA, US",
+        "date": "2026-03-12",
         "years_experience": "N/A",
-        "salary": "$3,275.86 - $4,651.34 bi-weekly",
+        "salary": "$3,275.86 - $4,651.34 Bi-weekly",
         "in-person/remote/hybrid": "remote",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
             "Python",
             "R",
-            "MySQL",
-            "Microsoft SQL Server",
-            "PostgreSQL"
+            "SQL"
         ],
         "tools": [
+            "MySQL",
+            "Microsoft SQL Server",
+            "PostgreSQL",
             "REDCap",
             "OnCore",
             "PACS",
@@ -2491,6 +2861,8 @@
     },
     {
         "ID": "in-004cecc2bcde22a8",
+        "location": "Davis, CA, US",
+        "date": "2026-03-12",
         "years_experience": "N/A",
         "salary": "$3,275.86 - $4,651.34 Bi-weekly",
         "in-person/remote/hybrid": "remote",
@@ -2499,10 +2871,10 @@
             "Python",
             "R",
             "MySQL",
-            "Microsoft SQL Server",
             "PostgreSQL"
         ],
         "tools": [
+            "Microsoft SQL Server",
             "REDCap",
             "OnCore",
             "PACS",
@@ -2512,9 +2884,11 @@
     },
     {
         "ID": "in-0ac0cef3ab146900",
+        "location": "San Francisco, CA, US",
+        "date": "2026-03-12",
         "years_experience": "N/A",
-        "salary": "$25.72 - $36.59 (Hourly Rate)",
-        "in-person/remote/hybrid": "Flexible",
+        "salary": "$25.72 - $36.59 Hourly",
+        "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
             "SQL",
@@ -2522,14 +2896,16 @@
             "Python"
         ],
         "tools": [
-            "Tableau",
-            "Scuba"
+            "Scuba",
+            "Tableau"
         ]
     },
     {
         "ID": "in-ab5a86acdbc6098c",
+        "location": "San Francisco, CA, US",
+        "date": "2026-02-17",
         "years_experience": "10+",
-        "salary": "130,400 - 202,800 USD annually",
+        "salary": "149,900 - 202,800 USD",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
@@ -2538,11 +2914,14 @@
         ],
         "tools": [
             "AWS",
+            "ETL",
             "Oracle"
         ]
     },
     {
         "ID": "in-555bbae7bb8a97b5",
+        "location": "San Diego, CA, US",
+        "date": "2026-03-23",
         "years_experience": "4",
         "salary": "$84,855.38 - $107,956.19",
         "in-person/remote/hybrid": "hybrid",
@@ -2552,19 +2931,21 @@
             "Python"
         ],
         "tools": [
-            "Electronic Data Capture (EDC)",
-            "Microsoft Office",
-            "Word",
-            "Excel",
-            "PowerPoint",
             "Copilot",
             "ChatGPT",
             "Claude",
-            "GitHub"
+            "GitHub",
+            "Electronic Data Capture",
+            "Microsoft Office",
+            "Word",
+            "Excel",
+            "PowerPoint"
         ]
     },
     {
         "ID": "in-e254eea3f35a6764",
+        "location": "San Diego, CA, US",
+        "date": "2026-03-23",
         "years_experience": "7 years",
         "salary": "$113,939.96 - $152,210.32",
         "in-person/remote/hybrid": "hybrid",
@@ -2578,7 +2959,7 @@
             "ChatGPT",
             "Claude",
             "GitHub",
-            "Electronic Data Capture (EDC)",
+            "Electronic Data Capture",
             "Microsoft Office",
             "Word",
             "Excel",
@@ -2587,6 +2968,8 @@
     },
     {
         "ID": "in-269d030d918e2d13",
+        "location": "Los Angeles, CA, US",
+        "date": "2026-03-23",
         "years_experience": "3-5 years",
         "salary": "$80,000 - $100,000",
         "in-person/remote/hybrid": "hybrid",
@@ -2599,12 +2982,16 @@
             "Domo",
             "Tableau",
             "Power BI",
-            "MS Office"
+            "Word",
+            "Excel",
+            "PowerPoint"
         ]
     },
     {
         "ID": "in-3878e761cf171b20",
-        "years_experience": "5 or more years",
+        "location": "Los Angeles, CA, US",
+        "date": "2026-03-23",
+        "years_experience": "5+",
         "salary": "$95,400 to $208,300 annually",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
@@ -2622,9 +3009,11 @@
     },
     {
         "ID": "in-399fd54871dfee63",
-        "years_experience": "3 or more years",
+        "location": "Camarillo, CA, US",
+        "date": "2026-03-23",
+        "years_experience": "3",
         "salary": "$32.69 to $36.06 per hour",
-        "in-person/remote/hybrid": "in-person",
+        "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
         "tools": [
@@ -2633,9 +3022,11 @@
     },
     {
         "ID": "in-9c37f4678691861b",
+        "location": "Los Angeles, CA; Oakland, CA; Sacramento, CA",
+        "date": "2026-03-23",
         "years_experience": "N/A",
         "salary": "$3,861.00 - $6,276.00 per Month",
-        "in-person/remote/hybrid": "Hybrid",
+        "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
         "tools": [
@@ -2647,8 +3038,10 @@
     },
     {
         "ID": "in-ec5202a45226c754",
-        "years_experience": "3+ years",
-        "salary": "$59,100 to $196,000",
+        "location": "San Diego, CA, US",
+        "date": "2026-03-23",
+        "years_experience": "3+",
+        "salary": "$70,350 to $196,000",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
@@ -2663,8 +3056,10 @@
     },
     {
         "ID": "in-cf567793f15c6052",
-        "years_experience": "3+ years",
-        "salary": "$59,100 to $196,000",
+        "location": "Culver City, CA, US",
+        "date": "2026-03-23",
+        "years_experience": "3+",
+        "salary": "$70,350 to $196,000",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
@@ -2679,8 +3074,10 @@
     },
     {
         "ID": "in-ee31b5b6892f865f",
+        "location": "Huntington Beach, CA, US",
+        "date": "2026-03-23",
         "years_experience": "N/A",
-        "salary": "$70,304 \u2013 80,000 annually",
+        "salary": "$70,304 \u2013 80,000",
         "in-person/remote/hybrid": "in-person",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
@@ -2697,9 +3094,11 @@
     },
     {
         "ID": "in-dc3b7d5dea32ea25",
+        "location": "Rosemead, CA, US",
+        "date": "2026-03-23",
         "years_experience": "5+",
-        "salary": "$90,000 - $126,500",
-        "in-person/remote/hybrid": "Hybrid",
+        "salary": "$90,000 - $126,500 / Annual",
+        "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
         "tools": [
@@ -2710,9 +3109,11 @@
     },
     {
         "ID": "in-01545bfd51a39ce1",
+        "location": "Sherman Oaks, CA, US",
+        "date": "2026-03-23",
         "years_experience": "N/A",
         "salary": "N/A",
-        "in-person/remote/hybrid": "Hybrid",
+        "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
             "SQL"
@@ -2724,13 +3125,14 @@
     },
     {
         "ID": "in-1ae22ad603fae739",
+        "location": "Santa Fe Springs, CA, US",
+        "date": "2026-03-23",
         "years_experience": "1-3 years",
-        "salary": "$50,000 - $70,000",
+        "salary": "$50,000.00 - $70,000.00 per year",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
         "tools": [
-            "Microsoft Office",
             "Excel",
             "Word",
             "PowerPoint",
@@ -2739,8 +3141,10 @@
     },
     {
         "ID": "in-9b524a43e59f4346",
-        "years_experience": "1-3 years",
-        "salary": "$70,304 - $105,000",
+        "location": "Corona, CA, US",
+        "date": "2026-03-23",
+        "years_experience": "1-3",
+        "salary": "$70,304 to $105,000",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
@@ -2755,6 +3159,8 @@
     },
     {
         "ID": "in-5b56ebf3e68a0224",
+        "location": "San Diego, CA, US",
+        "date": "2026-03-22",
         "years_experience": "N/A",
         "salary": "$20/hr",
         "in-person/remote/hybrid": "N/A",
@@ -2772,6 +3178,8 @@
     },
     {
         "ID": "in-f6bed81b927f6d73",
+        "location": "Culver City, CA, US",
+        "date": "2026-03-22",
         "years_experience": "N/A",
         "salary": "$19/hour",
         "in-person/remote/hybrid": "N/A",
@@ -2782,13 +3190,14 @@
         ],
         "tools": [
             "Tableau",
-            "Power BI",
-            "GPTs"
+            "Power BI"
         ]
     },
     {
         "ID": "in-ae680067c68176e4",
-        "years_experience": "3 years",
+        "location": "Orange, CA, US",
+        "date": "2026-03-22",
+        "years_experience": "3",
         "salary": "N/A",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
@@ -2796,13 +3205,15 @@
             "SQL"
         ],
         "tools": [
-            "OnCore CTMS",
+            "OnCore",
             "Jasper",
             "Tableau"
         ]
     },
     {
         "ID": "in-534a870e3f9ce5b2",
+        "location": "Los Angeles, CA, US",
+        "date": "2026-03-22",
         "years_experience": "5+",
         "salary": "$70,304.00-$104,832.00",
         "in-person/remote/hybrid": "N/A",
@@ -2812,9 +3223,11 @@
     },
     {
         "ID": "in-57867842740dcc59",
+        "location": "Irvine, CA, US",
+        "date": "2026-03-22",
         "years_experience": "1-2 years",
-        "salary": "$92,000.00 - $148,350.00",
-        "in-person/remote/hybrid": "in-person",
+        "salary": "$92,000 - $148,350",
+        "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
             "Python",
@@ -2822,21 +3235,27 @@
             "SQL"
         ],
         "tools": [
+            "SQL Server",
+            "Databricks",
+            "AWS Redshift",
             "Azure Data Factory",
-            "Azure Databricks",
             "Azure Data Lake Storage",
             "Azure SQL",
-            "SQL Server",
-            "AWS Redshift",
             "Jupyter Notebook",
-            "Power BI"
+            "Azure Machine Learning",
+            "Power BI",
+            "Copilot",
+            "Azure Cognitive Services",
+            "Azure OpenAI"
         ]
     },
     {
         "ID": "in-4f5d2dfccf5d8989",
+        "location": "Los Angeles, CA, US",
+        "date": "2026-03-22",
         "years_experience": "N/A",
         "salary": "$20 per hour",
-        "in-person/remote/hybrid": "Hybrid",
+        "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "internship",
         "programming_languages": [
             "SQL",
@@ -2847,42 +3266,54 @@
             "Power BI",
             "Power Apps",
             "Azure SQL",
+            "Rest APIs",
             "Microsoft Copilot"
         ]
     },
     {
         "ID": "in-666a3b1222e45181",
+        "location": "Costa Mesa, CA, US",
+        "date": "2026-03-22",
         "years_experience": "1-2 years",
         "salary": "$70,000-$80,000",
-        "in-person/remote/hybrid": "Hybrid",
+        "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
-        "tools": "Excel, Outlook, Word"
+        "tools": [
+            "Outlook",
+            "Word",
+            "Excel"
+        ]
     },
     {
         "ID": "in-7a01a867a642185c",
+        "location": "San Diego, CA, US",
+        "date": "2026-03-22",
         "years_experience": "multiple years",
-        "salary": "$90,000 - $120,000 + bonus",
+        "salary": "$90,000 - $120,000",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
             "SQL"
         ],
         "tools": [
-            "Oracle Database",
-            "PostgreSQL",
             "Ellucian Banner",
             "Argos",
             "Cognos",
-            "Operational Data Store (ODS)",
-            "Banner Enterprise Data Warehouse (EDW)",
-            "Power BI",
+            "Operational Data Store",
+            "Banner Enterprise Data Warehouse",
+            "Oracle Database",
+            "PostgreSQL",
+            "RDBMS",
+            "Microsoft Power BI",
             "Tableau",
             "IBM Cognos Analytics"
         ]
     },
     {
         "ID": "in-4ed08056a90d989f",
+        "location": "San Bernardino, CA, US",
+        "date": "2026-03-22",
         "years_experience": "N/A",
         "salary": "$28.00 per hour",
         "in-person/remote/hybrid": "in-person",
@@ -2892,23 +3323,28 @@
             "SQL"
         ],
         "tools": [
-            "Tableau",
             "Power BI",
-            "Qualtrics",
-            "InfoReady"
+            "Tableau",
+            "Qualtrics"
         ]
     },
     {
         "ID": "in-71db6b91842a2d7a",
+        "location": "West Hills, CA, US",
+        "date": "2026-03-22",
         "years_experience": "7+",
-        "salary": "$117,000 - $216,000",
+        "salary": "$130,000.00 - $216,000.00",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
-        "tools": "JD Edwards"
+        "tools": [
+            "JD Edwards"
+        ]
     },
     {
         "ID": "in-48c64af1e1161c79",
+        "location": "Beverly Hills, CA, US",
+        "date": "2026-03-22",
         "years_experience": "5+",
         "salary": "$140,000-$160,000",
         "in-person/remote/hybrid": "N/A",
@@ -2927,6 +3363,8 @@
     },
     {
         "ID": "in-3e37460c6001b0ca",
+        "location": "San Bernardino, CA, US",
+        "date": "2026-03-22",
         "years_experience": "N/A",
         "salary": "$28.00 per hour",
         "in-person/remote/hybrid": "in-person",
@@ -2936,32 +3374,46 @@
             "SQL"
         ],
         "tools": [
-            "Tableau",
             "Power BI",
+            "Tableau",
             "Qualtrics"
         ]
     },
     {
         "ID": "in-4c25f4aad9576f18",
+        "location": "Manhattan Beach, CA, US",
+        "date": "2026-03-22",
         "years_experience": "5+",
         "salary": "$150,000-$185,000/yr USD",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
-        "tools": "Claude, Stable Diffusion"
+        "tools": [
+            "Claude",
+            "Stable Diffusion"
+        ]
     },
     {
         "ID": "in-b6270b947295cc74",
+        "location": "Downey, CA, US",
+        "date": "2026-03-22",
         "years_experience": "N/A",
         "salary": "N/A",
         "in-person/remote/hybrid": "in-person",
         "fulltime/parttime/internship": "parttime",
         "programming_languages": "N/A",
-        "tools": "spreadsheets"
+        "tools": [
+            "spreadsheets",
+            "PC mainframes",
+            "Health Connect",
+            "KPHC"
+        ]
     },
     {
         "ID": "in-2b5224f5d0afc4ab",
-        "years_experience": "7+ years",
+        "location": "Garden Grove, CA, US",
+        "date": "2026-03-22",
+        "years_experience": "7+",
         "salary": "N/A",
         "in-person/remote/hybrid": "in-person",
         "fulltime/parttime/internship": "fulltime",
@@ -2973,15 +3425,13 @@
             "SAP",
             "AWS Cloud",
             "CRM",
-            "Data Warehouse",
-            "ERP",
-            "MES",
-            "SCM",
-            "PLM"
+            "Data Warehouse"
         ]
     },
     {
         "ID": "in-35363d622716457c",
+        "location": "San Diego, CA, US",
+        "date": "2026-03-17",
         "years_experience": "N/A",
         "salary": "$17.93 - $29.90 per hour",
         "in-person/remote/hybrid": "in-person",
@@ -3000,34 +3450,42 @@
     },
     {
         "ID": "in-4a80f3e916a499b9",
-        "years_experience": "3-12 years",
-        "salary": "$94,200.00 - $176,300.00",
-        "in-person/remote/hybrid": "in-person",
+        "location": "Palmdale, CA or Edwards AFB, CA",
+        "date": "2026-03-16",
+        "years_experience": "3-12",
+        "salary": "$94,200 - $176,300",
+        "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
         "tools": [
             "TeamCenter",
             "SAP",
             "MES",
-            "CPLM"
+            "CPLM",
+            "EVMS"
         ]
     },
     {
         "ID": "in-a3f93b8179611619",
-        "years_experience": "1-12 years",
+        "location": "Palmdale, CA, US",
+        "date": "2026-03-16",
+        "years_experience": "5-12",
         "salary": "$94,200 - $176,300",
-        "in-person/remote/hybrid": "in-person",
+        "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
         "tools": [
             "TeamCenter",
             "SAP",
             "MES",
-            "CPLM"
+            "CPLM",
+            "EVMS"
         ]
     },
     {
         "ID": "in-7a342b4306a66c1f",
+        "location": "Rancho Cucamonga, CA, US",
+        "date": "2026-02-09",
         "years_experience": "4",
         "salary": "N/A",
         "in-person/remote/hybrid": "N/A",
@@ -3046,6 +3504,8 @@
     },
     {
         "ID": "in-5f0ab7126648fe8d",
+        "location": "Rancho Cucamonga, CA, US",
+        "date": "2026-02-05",
         "years_experience": "5",
         "salary": "N/A",
         "in-person/remote/hybrid": "hybrid",
@@ -3054,7 +3514,7 @@
             "SQL"
         ],
         "tools": [
-            "Microsoft SQL Server Reporting Services (SSRS)",
+            "Microsoft SQL Server Reporting Services",
             "PowerBI",
             "ThoughtSpot",
             "GitHub",
@@ -3066,6 +3526,8 @@
     },
     {
         "ID": "in-d8c9d153a4a3af54",
+        "location": "Rancho Cucamonga, CA, US",
+        "date": "2023-12-19",
         "years_experience": "5+",
         "salary": "N/A",
         "in-person/remote/hybrid": "hybrid",
@@ -3080,10 +3542,12 @@
     },
     {
         "ID": "in-e267488d4f3aa3a1",
+        "location": "Oakland, CA, US",
+        "date": "2026-03-24",
         "years_experience": "N/A",
         "salary": "N/A",
         "in-person/remote/hybrid": "N/A",
-        "fulltime/parttime/internship": "N/A",
+        "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
             "SQL"
         ],
@@ -3093,6 +3557,8 @@
     },
     {
         "ID": "in-70a11f4b74b8ae59",
+        "location": "Santa Clara, CA, US",
+        "date": "2026-03-23",
         "years_experience": "N/A",
         "salary": "$145,000.00 - $235,500.00/yr",
         "in-person/remote/hybrid": "in-person",
@@ -3109,6 +3575,8 @@
     },
     {
         "ID": "in-6ca3afffde0194ba",
+        "location": "San Francisco, CA, US",
+        "date": "2026-03-23",
         "years_experience": "2+",
         "salary": "$118,000 - $147,500",
         "in-person/remote/hybrid": "hybrid",
@@ -3121,6 +3589,8 @@
     },
     {
         "ID": "in-504c798ff4d48c68",
+        "location": "Sunnyvale, CA, US",
+        "date": "2026-03-23",
         "years_experience": "N/A",
         "salary": "$105000- $115000",
         "in-person/remote/hybrid": "N/A",
@@ -3141,29 +3611,40 @@
     },
     {
         "ID": "in-65b008514c33ad53",
+        "location": "Sacramento County, CA, US",
+        "date": "2026-03-23",
         "years_experience": "N/A",
         "salary": "$3,861.00 - $6,276.00 per Month",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
         "tools": [
-            "Microsoft Office Suite"
+            "Microsoft Office"
         ]
     },
     {
         "ID": "in-282c047719e2f0d7",
+        "location": "Sacramento County, CA, US",
+        "date": "2026-03-23",
         "years_experience": "N/A",
         "salary": "$6,330.00 - $7,929.00 per Month",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
-        "tools": "Microsoft Outlook, Word, Excel, FI$Cal"
+        "tools": [
+            "Outlook",
+            "Word",
+            "Excel",
+            "FI$Cal"
+        ]
     },
     {
         "ID": "in-f461436676095538",
+        "location": "CA, US",
+        "date": "2026-03-23",
         "years_experience": "N/A",
         "salary": "$3,861.00 - $6,276.00 per Month",
-        "in-person/remote/hybrid": "Hybrid",
+        "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
         "tools": [
@@ -3175,6 +3656,8 @@
     },
     {
         "ID": "in-5c519b60da2f47f9",
+        "location": "Los Angeles, CA; Oakland, CA; Sacramento, CA",
+        "date": "2026-03-23",
         "years_experience": "N/A",
         "salary": "$3,861.00 - $6,276.00 per Month",
         "in-person/remote/hybrid": "Hybrid",
@@ -3182,7 +3665,6 @@
         "programming_languages": "N/A",
         "tools": [
             "Fi$cal",
-            "Microsoft Office",
             "Excel",
             "Outlook",
             "Teams"
@@ -3190,8 +3672,10 @@
     },
     {
         "ID": "in-98df6c3ea9b5d53f",
-        "years_experience": "3+ years",
-        "salary": "$59,100 to $196,000",
+        "location": "Mountain View, CA, US",
+        "date": "2026-03-23",
+        "years_experience": "3+",
+        "salary": "$70,350 to $196,000",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
@@ -3206,8 +3690,10 @@
     },
     {
         "ID": "in-ddf767f095f9b061",
-        "years_experience": "3+ years",
-        "salary": "$59,100 - $196,000",
+        "location": "San Francisco, CA, US",
+        "date": "2026-03-23",
+        "years_experience": "3+",
+        "salary": "$70,350 to $196,000",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
@@ -3222,8 +3708,10 @@
     },
     {
         "ID": "in-8931715243c54f4a",
-        "years_experience": "3+ years",
-        "salary": "$59,100 to $196,000",
+        "location": "Sacramento, CA, US",
+        "date": "2026-03-23",
+        "years_experience": "3+",
+        "salary": "$70,350 to $196,000",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
@@ -3238,8 +3726,10 @@
     },
     {
         "ID": "in-7747b54d842c8ed0",
-        "years_experience": "3+ years",
-        "salary": "$59,100 - $196,000",
+        "location": "Walnut Creek, CA, US",
+        "date": "2026-03-23",
+        "years_experience": "3+",
+        "salary": "$70,350 to $196,000",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
@@ -3254,6 +3744,8 @@
     },
     {
         "ID": "in-0a9c54dae22b8d2e",
+        "location": "San Francisco, CA, US",
+        "date": "2026-03-23",
         "years_experience": "N/A",
         "salary": "N/A",
         "in-person/remote/hybrid": "hybrid",
@@ -3264,6 +3756,8 @@
             "R"
         ],
         "tools": [
+            "ETL",
+            "ELT",
             "Snowflake",
             "BigQuery",
             "Tableau",
@@ -3273,9 +3767,11 @@
     },
     {
         "ID": "in-006b7aace6f9d30d",
-        "years_experience": "4-8 years",
+        "location": "San Jose, CA, US",
+        "date": "2026-03-24",
+        "years_experience": "4-7 years",
         "salary": "N/A",
-        "in-person/remote/hybrid": "in-person",
+        "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
             "SQL",
@@ -3287,20 +3783,22 @@
     },
     {
         "ID": "in-c763eb0ec55ab34a",
-        "years_experience": "5-6 years",
+        "location": "Mountain View, CA, US",
+        "date": "2026-03-23",
+        "years_experience": "4-8 years",
         "salary": "N/A",
-        "in-person/remote/hybrid": "in-person",
+        "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
             "SQL",
             "Python"
         ],
-        "tools": [
-            "N/A"
-        ]
+        "tools": "N/A"
     },
     {
         "ID": "in-6b06cc0432ba80bd",
+        "location": "Palo Alto, CA, US",
+        "date": "2026-03-23",
         "years_experience": "3+",
         "salary": "N/A",
         "in-person/remote/hybrid": "N/A",
@@ -3312,9 +3810,14 @@
             "Spark"
         ],
         "tools": [
-            "Tableau",
             "Snowflake",
             "Streamlit",
+            "Tableau",
+            "Pandas",
+            "NumPy",
+            "scikit-learn",
+            "Matplotlib",
+            "Seaborn",
             "Databricks",
             "Oracle",
             "SQL Server",
@@ -3326,6 +3829,8 @@
     },
     {
         "ID": "in-2008962c7c5bc562",
+        "location": "Sacramento, CA",
+        "date": "2026-03-23",
         "years_experience": "N/A",
         "salary": "$6,513.00 - $10,537.00 per Month",
         "in-person/remote/hybrid": "Hybrid",
@@ -3338,25 +3843,27 @@
     },
     {
         "ID": "in-76a42b3ab3f00fbd",
+        "location": "Fremont, CA, US",
+        "date": "2026-03-22",
         "years_experience": "1-3 years",
         "salary": "N/A",
         "in-person/remote/hybrid": "in-person",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
         "tools": [
-            "Sysco Warehouse Management System (SWMS)",
-            "Sysco Order Selection system (SOS)",
-            "Sysco Loading System (SLS)",
-            "Sysco Transportation System (STS)",
+            "Sysco Warehouse Management System",
+            "Sysco Order Selection system",
+            "Sysco Loading System",
+            "Sysco Transportation System",
             "SAP",
-            "radio frequency (RF) equipment",
-            "routing software",
-            "spreadsheet software",
-            "word processing software"
+            "Spreadsheet software",
+            "Word processing software"
         ]
     },
     {
         "ID": "in-6aeace4f0afd32b0",
+        "location": "Santa Cruz, CA, US",
+        "date": "2026-03-22",
         "years_experience": "N/A",
         "salary": "N/A",
         "in-person/remote/hybrid": "in-person",
@@ -3370,8 +3877,10 @@
     },
     {
         "ID": "in-fac05e77bd77de0a",
-        "years_experience": "10+ years",
-        "salary": "$215,000 - $263,000",
+        "location": "Mountain View, CA, US",
+        "date": "2026-03-22",
+        "years_experience": "10+",
+        "salary": "$215,000 to $263,000",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
@@ -3386,15 +3895,26 @@
     },
     {
         "ID": "in-508e42cfff5e755b",
-        "years_experience": "8 years",
+        "location": "Menlo Park, CA, US",
+        "date": "2026-03-22",
+        "years_experience": "8",
         "salary": "$142,000 - $185,800",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
-        "tools": "Gemini, NotebookLM, Cortex Code, Google Suite, Workday, ServiceNow"
+        "tools": [
+            "Gemini",
+            "NotebookLM",
+            "Cortex Code",
+            "Google Suite",
+            "Workday",
+            "ServiceNow"
+        ]
     },
     {
         "ID": "in-6b5eabe8913a889b",
+        "location": "Sacramento County, CA, US",
+        "date": "2026-03-22",
         "years_experience": "N/A",
         "salary": "$6,330.00 - $7,929.00 per Month",
         "in-person/remote/hybrid": "hybrid",
@@ -3409,15 +3929,21 @@
     },
     {
         "ID": "in-23b3c5e80b87858d",
+        "location": "Sacramento County, CA, US",
+        "date": "2026-03-22",
         "years_experience": "N/A",
         "salary": "$6,330.00 - $7,929.00 per Month",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
-        "tools": "Fi$Cal"
+        "tools": [
+            "Fi$Cal"
+        ]
     },
     {
         "ID": "in-5adb5508cb5792ea",
+        "location": "Sunnyvale, CA, US",
+        "date": "2026-03-22",
         "years_experience": "5+",
         "salary": "$118,500 - $197,500",
         "in-person/remote/hybrid": "N/A",
@@ -3438,22 +3964,29 @@
     },
     {
         "ID": "in-1b5677c8e5eb3fc6",
+        "location": "Sacramento County, CA, US",
+        "date": "2026-03-22",
         "years_experience": "N/A",
-        "salary": "$6,031.00 - $7,547.00 per Month",
+        "salary": "$3,861.00 - $7,547.00 per Month",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
-        "tools": "Adobe Captivate, Learning Management System (LMS)"
+        "tools": [
+            "Adobe Captivate",
+            "Learning Management System"
+        ]
     },
     {
         "ID": "in-59e0ee28165afd6a",
+        "location": "Mather, CA",
+        "date": "2026-03-22",
         "years_experience": "N/A",
         "salary": "$6,031.00 - $7,547.00 per Month",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
         "tools": [
-            "Microsoft Office Suite",
+            "Microsoft Office",
             "Excel",
             "Word",
             "PowerPoint",
@@ -3462,6 +3995,8 @@
     },
     {
         "ID": "in-a58bd17f4eedb4a8",
+        "location": "Sacramento County, CA, US",
+        "date": "2026-03-22",
         "years_experience": "N/A",
         "salary": "$6,623.00 - $8,290.00 per Month",
         "in-person/remote/hybrid": "hybrid",
@@ -3471,6 +4006,8 @@
     },
     {
         "ID": "in-5bc9e003f5f310a4",
+        "location": "San Jose, CA, US",
+        "date": "2026-03-21",
         "years_experience": "N/A",
         "salary": "N/A",
         "in-person/remote/hybrid": "N/A",
@@ -3486,6 +4023,8 @@
     },
     {
         "ID": "in-997863bc9538fbcd",
+        "location": "Fremont, CA, US",
+        "date": "2026-03-21",
         "years_experience": "2+",
         "salary": "$100,000 - $180,000",
         "in-person/remote/hybrid": "N/A",
@@ -3501,21 +4040,21 @@
     },
     {
         "ID": "in-1f3038c85c022c2c",
+        "location": "Berkeley, CA, US",
+        "date": "2026-03-20",
         "years_experience": "N/A",
         "salary": "$91,500.00 - $92,700.00",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
-        "programming_languages": [
-            "N/A"
-        ],
-        "tools": [
-            "NMR"
-        ]
+        "programming_languages": "N/A",
+        "tools": "N/A"
     },
     {
         "ID": "in-9e2685b6788f2c20",
-        "years_experience": "10+ years",
-        "salary": "130,400 - 202,800 USD annually",
+        "location": "San Francisco, CA, US",
+        "date": "2026-02-17",
+        "years_experience": "10+",
+        "salary": "149,900 - 202,800 USD annually",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
@@ -3523,15 +4062,17 @@
             "Python"
         ],
         "tools": [
-            "AWS",
+            "ETL",
             "Oracle",
-            "ETL"
+            "AWS"
         ]
     },
     {
         "ID": "in-c003c06c81367723",
+        "location": "Burlingame, CA, US",
+        "date": "2025-12-15",
         "years_experience": "4+",
-        "salary": "$134,000/year to $189,000/year",
+        "salary": "$134,000 - $189,000 per year",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
@@ -3541,21 +4082,22 @@
     },
     {
         "ID": "in-2c8b605b7d68fb2e",
+        "location": "Las Vegas, NV, US",
+        "date": "2026-03-23",
         "years_experience": "5",
         "salary": "N/A",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
-        "programming_languages": [
-            "SQL"
-        ],
+        "programming_languages": "N/A",
         "tools": [
             "Data Loss Prevention",
-            "Sensitivity Labeling",
-            "Record Identification"
+            "Sensitivity Labeling"
         ]
     },
     {
         "ID": "in-b4ffda9a7f911519",
+        "location": "Las Vegas, NV, US",
+        "date": "2026-03-22",
         "years_experience": "N/A",
         "salary": "N/A",
         "in-person/remote/hybrid": "in-person",
@@ -3573,6 +4115,8 @@
     },
     {
         "ID": "in-1848cbc1e79ce3a5",
+        "location": "Las Vegas, NV, US",
+        "date": "2026-03-22",
         "years_experience": "3-5 years",
         "salary": "N/A",
         "in-person/remote/hybrid": "N/A",
@@ -3583,12 +4127,17 @@
         "tools": [
             "Power BI",
             "Microsoft Office",
+            "PowerPoint",
+            "Word",
+            "Outlook",
             "Excel"
         ]
     },
     {
         "ID": "in-b51a0c850d1e1a7a",
-        "years_experience": "4 years",
+        "location": "Las Vegas, NV, US",
+        "date": "2026-03-22",
+        "years_experience": "4",
         "salary": "N/A",
         "in-person/remote/hybrid": "in-person",
         "fulltime/parttime/internship": "fulltime",
@@ -3605,6 +4154,8 @@
     },
     {
         "ID": "in-00bd8ff26a6a1f3d",
+        "location": "Las Vegas, NV, US",
+        "date": "2026-02-26",
         "years_experience": "2-7 years",
         "salary": "N/A",
         "in-person/remote/hybrid": "in-person",
@@ -3614,7 +4165,9 @@
     },
     {
         "ID": "in-442ce3ce4cb67493",
-        "years_experience": "2 years",
+        "location": "Los Angeles, CA, US",
+        "date": "2026-04-02",
+        "years_experience": "2",
         "salary": "$75,000 - $85,000",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
@@ -3625,7 +4178,7 @@
         ],
         "tools": [
             "Databricks",
-            "AWS",
+            "Amazon Web Services",
             "Google Cloud",
             "Salesforce",
             "Sigma",
@@ -3635,6 +4188,8 @@
     },
     {
         "ID": "in-e42dcc7d12c2bfa4",
+        "location": "Corona, CA, US",
+        "date": "2026-04-02",
         "years_experience": "N/A",
         "salary": "N/A",
         "in-person/remote/hybrid": "N/A",
@@ -3643,7 +4198,8 @@
             "SQL",
             "M-Code",
             "DAX",
-            "Python"
+            "Python",
+            "Boolean"
         ],
         "tools": [
             "Excel",
@@ -3656,7 +4212,9 @@
     },
     {
         "ID": "in-7c106b5ccb73dd99",
-        "years_experience": "2+ years",
+        "location": "Seal Beach, CA, US",
+        "date": "2026-04-02",
+        "years_experience": "2+",
         "salary": "$98,600 - $162,150",
         "in-person/remote/hybrid": "in-person",
         "fulltime/parttime/internship": "fulltime",
@@ -3671,6 +4229,8 @@
     },
     {
         "ID": "in-43020a9524a67a62",
+        "location": "Hawthorne, CA, US",
+        "date": "2026-04-01",
         "years_experience": "3-5 years",
         "salary": "N/A",
         "in-person/remote/hybrid": "N/A",
@@ -3678,28 +4238,33 @@
         "programming_languages": "N/A",
         "tools": [
             "Microsoft Excel",
-            "ERP systems",
-            "Epicor",
-            "MS Office",
-            "Google Docs"
+            "Power Query",
+            "Power Pivot",
+            "Microsoft Office",
+            "Google Docs",
+            "ERP",
+            "Epicor"
         ]
     },
     {
         "ID": "in-c8b611e99059f6e8",
+        "location": "Ontario, CA, US",
+        "date": "2026-04-01",
         "years_experience": "8+",
         "salary": "$95,000-$119,000",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
         "tools": [
-            "Trackwise digital eqms",
-            "eQMS systems"
+            "Trackwise digital eqms"
         ]
     },
     {
         "ID": "in-b64b2526d0b71d2c",
+        "location": "San Diego, CA, US",
+        "date": "2026-04-01",
         "years_experience": "5+",
-        "salary": "$102,000 - $128,000 per year",
+        "salary": "$102,000 - $128,000",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
@@ -3716,9 +4281,11 @@
     },
     {
         "ID": "in-271e2890e8b29128",
-        "years_experience": "5+ years",
+        "location": "Orange, CA, US",
+        "date": "2026-04-01",
+        "years_experience": "5+",
         "salary": "$85,696.00 - $128,543.00",
-        "in-person/remote/hybrid": "Remote",
+        "in-person/remote/hybrid": "remote",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
             "SQL",
@@ -3735,7 +4302,9 @@
     },
     {
         "ID": "in-3719b8a16c78883f",
-        "years_experience": "2-5 years",
+        "location": "San Diego, CA, US",
+        "date": "2026-04-01",
+        "years_experience": "2-5",
         "salary": "$110,000 - $130,000",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
@@ -3759,7 +4328,9 @@
     },
     {
         "ID": "in-0837fd5e3d054671",
-        "years_experience": "10+ years",
+        "location": "San Diego, CA, US",
+        "date": "2026-04-01",
+        "years_experience": "10+",
         "salary": "N/A",
         "in-person/remote/hybrid": "in-person",
         "fulltime/parttime/internship": "fulltime",
@@ -3769,9 +4340,13 @@
             "Power Point",
             "Excel",
             "Word",
+            "Corrosion Control Information Management System",
             "CCIMS",
+            "Maintenance Figure of Merit",
             "MFOM",
+            "Navy Maintenance Database",
             "NMD",
+            "Validate, Screen and Broker",
             "VSB",
             "eDFS",
             "MSWP"
@@ -3779,8 +4354,10 @@
     },
     {
         "ID": "in-cbab156652ce2379",
-        "years_experience": "3+",
-        "salary": "$33.96 to $43.96 hourly",
+        "location": "Culver City, CA, US",
+        "date": "2026-04-01",
+        "years_experience": "3",
+        "salary": "$33.96 to $43.96 per hour",
         "in-person/remote/hybrid": "in-person",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
@@ -3792,8 +4369,10 @@
     },
     {
         "ID": "in-00d87ec7f30b8a64",
-        "years_experience": "3 years",
-        "salary": "$33.96 - $43.96 per hour",
+        "location": "San Diego, CA, US",
+        "date": "2026-04-01",
+        "years_experience": "3",
+        "salary": "$33.96 to $43.96 per hour",
         "in-person/remote/hybrid": "in-person",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
@@ -3805,6 +4384,8 @@
     },
     {
         "ID": "in-6d5690958dbd0ca5",
+        "location": "Rancho Belago, CA, US",
+        "date": "2026-04-01",
         "years_experience": "5+",
         "salary": "$110,000-$140,000/yr",
         "in-person/remote/hybrid": "N/A",
@@ -3821,7 +4402,9 @@
     },
     {
         "ID": "in-87982810f67a92e1",
-        "years_experience": "5+ years",
+        "location": "Manhattan Beach, CA, US",
+        "date": "2026-04-01",
+        "years_experience": "5+",
         "salary": "$110,000-$140,000/yr USD",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
@@ -3837,56 +4420,68 @@
     },
     {
         "ID": "in-ba51b051dccd8637",
-        "years_experience": "2 years",
+        "location": "Fullerton, CA, US",
+        "date": "2026-04-01",
+        "years_experience": "2",
         "salary": "$4,799 - $6,992 per month",
         "in-person/remote/hybrid": "in-person",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
-        "tools": "Common Human Resources System (CHRS)"
+        "tools": [
+            "CHRS"
+        ]
     },
     {
         "ID": "in-a9b1496efcf117f1",
+        "location": "Los Angeles, CA, US",
+        "date": "2026-04-01",
         "years_experience": "N/A",
-        "salary": "$23.75 per hour",
-        "in-person/remote/hybrid": "in-person",
+        "salary": "$23.75 - $23.75 hourly",
+        "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "internship",
         "programming_languages": [
             "SQL"
         ],
         "tools": [
             "Tableau",
-            "Power BI",
-            "AI tools"
+            "Power BI"
         ]
     },
     {
         "ID": "in-283b5725f3dafaf6",
-        "years_experience": "4 years",
+        "location": "Duarte, CA, US",
+        "date": "2026-04-01",
+        "years_experience": "4",
         "salary": "N/A",
         "in-person/remote/hybrid": "in-person",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
-        "tools": "LIMS"
+        "tools": [
+            "LIMS"
+        ]
     },
     {
         "ID": "in-60098e3eb6eb7a1f",
-        "years_experience": "2+ years",
+        "location": "Costa Mesa, CA, US",
+        "date": "2026-04-01",
+        "years_experience": "2+",
         "salary": "N/A",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
         "tools": [
-            "Power BI",
-            "HRIS",
+            "PowerBI",
             "ADP",
             "SuccessFactors",
-            "Microsoft Office Suite"
+            "Microsoft Office"
         ]
     },
     {
         "ID": "in-06c7c71f396a909f",
-        "years_experience": "2+ years",
-        "salary": "$72,000 \u2013 $98,000",
+        "location": "Long Beach, CA, US",
+        "date": "2026-04-01",
+        "years_experience": "2",
+        "salary": "$72,000 \u2013 $98,000 annually",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
@@ -3903,25 +4498,31 @@
     },
     {
         "ID": "in-b87c56a07a3e1479",
+        "location": "El Segundo, CA, US",
+        "date": "2026-04-01",
         "years_experience": "5+",
         "salary": "$110,000 - $140,000",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
-            "SQL",
-            "VBA"
+            "SQL"
         ],
         "tools": [
             "Power BI",
-            "Excel",
             "Looker",
+            "Excel",
+            "Power Query",
+            "Macros",
+            "VBA",
             "Claude",
             "ChatGPT"
         ]
     },
     {
         "ID": "in-63a74d7b6f2db43c",
-        "years_experience": "5-9 years",
+        "location": "San Diego, CA, US",
+        "date": "2026-04-02",
+        "years_experience": "5-9",
         "salary": "$115,000 - $145,000 / Year",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
@@ -3929,7 +4530,8 @@
             "SQL"
         ],
         "tools": [
-            "Epic/Clarity",
+            "Epic",
+            "Clarity",
             "Tableau",
             "Power BI",
             "Trilliant Health",
@@ -3938,9 +4540,11 @@
     },
     {
         "ID": "in-ffdf83fa52191a92",
-        "years_experience": "2+ years",
+        "location": "Santa Ana, CA, US",
+        "date": "2026-03-31",
+        "years_experience": "2",
         "salary": "$34-36/hr",
-        "in-person/remote/hybrid": "in-person",
+        "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
             "SQL"
@@ -3956,8 +4560,10 @@
     },
     {
         "ID": "in-e564b4477828f945",
-        "years_experience": "5 to 7 years",
-        "salary": "$80,000 - $100,000/Yr",
+        "location": "El Monte, CA, US",
+        "date": "2026-03-31",
+        "years_experience": "5-7 years",
+        "salary": "$80,000 - $100,000",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
@@ -3974,10 +4580,12 @@
     },
     {
         "ID": "in-281996aa841e3804",
-        "years_experience": "6-12 months",
+        "location": "Huntington Beach, CA, US",
+        "date": "2026-03-31",
+        "years_experience": "0.5-1",
         "salary": "$25\u2013$35 per hour",
         "in-person/remote/hybrid": "N/A",
-        "fulltime/parttime/internship": "N/A",
+        "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
         "tools": [
             "Excel",
@@ -3987,6 +4595,8 @@
     },
     {
         "ID": "in-6d1d6195d2859add",
+        "location": "Woodland Hills, CA, US",
+        "date": "2026-03-31",
         "years_experience": "1+ years",
         "salary": "$65,000 \u2013 $78,000 annually",
         "in-person/remote/hybrid": "N/A",
@@ -4001,6 +4611,8 @@
     },
     {
         "ID": "in-8093b61d9d8a12f7",
+        "location": "Woodland Hills, CA, US",
+        "date": "2026-03-31",
         "years_experience": "2+ years",
         "salary": "$74,000 \u2013 $82,000 annually",
         "in-person/remote/hybrid": "N/A",
@@ -4016,7 +4628,9 @@
     },
     {
         "ID": "in-a13b2e349a533ab7",
-        "years_experience": "5+ years",
+        "location": "Irvine, CA, US",
+        "date": "2026-03-31",
+        "years_experience": "5+",
         "salary": "N/A",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
@@ -4024,15 +4638,16 @@
         "tools": [
             "Salesforce",
             "Tableau",
-            "MS Office",
             "Excel",
             "PowerPoint"
         ]
     },
     {
         "ID": "in-8848b4eb96928181",
-        "years_experience": "6 years",
-        "salary": "$133,000 - $208,000",
+        "location": "Los Angeles, CA, US",
+        "date": "2026-03-31",
+        "years_experience": "6",
+        "salary": "$133,000 - $200,000",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
@@ -4050,7 +4665,9 @@
     },
     {
         "ID": "in-d1048ef5c0594e10",
-        "years_experience": "2 years",
+        "location": "San Diego, CA, US",
+        "date": "2026-03-31",
+        "years_experience": "2",
         "salary": "N/A",
         "in-person/remote/hybrid": "in-person",
         "fulltime/parttime/internship": "fulltime",
@@ -4069,14 +4686,17 @@
     },
     {
         "ID": "in-7f9517b204683f5e",
-        "years_experience": "2 years",
+        "location": "San Diego, CA, US",
+        "date": "2026-03-31",
+        "years_experience": "2",
         "salary": "N/A",
         "in-person/remote/hybrid": "in-person",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
         "tools": [
             "Epic",
-            "QuickCap/Medivision",
+            "QuickCap",
+            "Medivision",
             "Intus",
             "Care.Coach",
             "AristaMD",
@@ -4087,9 +4707,11 @@
     },
     {
         "ID": "in-5b77c5c9f1e74d72",
+        "location": "Long Beach, CA, US",
+        "date": "2026-03-31",
         "years_experience": "2+",
-        "salary": "$38.46/hr - $43.27/hr",
-        "in-person/remote/hybrid": "in-person",
+        "salary": "$38.46/hr to $43.27/hr",
+        "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
             "SQL",
@@ -4099,7 +4721,7 @@
         "tools": [
             "AutoCAD",
             "Revit",
-            "Microsoft Office Suite",
+            "Microsoft Office",
             "Excel",
             "PowerPoint",
             "Word",
@@ -4108,8 +4730,10 @@
     },
     {
         "ID": "in-53e645efb067de46",
+        "location": "Commerce, CA, US",
+        "date": "2026-03-31",
         "years_experience": "1 year",
-        "salary": "$22.00 - $26.00 per hour",
+        "salary": "$22.00 to $26.00 per hour",
         "in-person/remote/hybrid": "in-person",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
@@ -4118,12 +4742,15 @@
             "DAX inventory",
             "WMS",
             "Artus BI",
-            "Category Analyzer"
+            "Category Analyzer",
+            "e-marketing applications"
         ]
     },
     {
         "ID": "in-e47aab0e0e458b49",
-        "years_experience": "10+",
+        "location": "Irvine, CA, US",
+        "date": "2026-03-31",
+        "years_experience": "10+ years",
         "salary": "$116,000 - $174,000",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
@@ -4147,6 +4774,8 @@
     },
     {
         "ID": "in-33da01cb0b42f53f",
+        "location": "San Diego, CA, US",
+        "date": "2026-03-31",
         "years_experience": "6+",
         "salary": "N/A",
         "in-person/remote/hybrid": "hybrid",
@@ -4167,6 +4796,8 @@
     },
     {
         "ID": "in-b1d5c2144dbda148",
+        "location": "Corona, CA, US",
+        "date": "2026-03-31",
         "years_experience": "N/A",
         "salary": "N/A",
         "in-person/remote/hybrid": "N/A",
@@ -4182,30 +4813,33 @@
             "Excel",
             "Power BI",
             "Microsoft Fabric",
+            "Word",
+            "Outlook",
             "MS Azure",
             "QUID",
             "Netbase",
-            "Rival IQ",
-            "Word",
-            "Outlook"
+            "Rival IQ"
         ]
     },
     {
         "ID": "in-619924b984837092",
-        "years_experience": "1 year",
+        "location": "Pasadena, CA, US",
+        "date": "2026-03-30",
+        "years_experience": "1",
         "salary": "N/A",
         "in-person/remote/hybrid": "in-person",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
         "tools": [
             "Excel",
-            "Data Visualization Tools",
-            "Quality management and data profiling tools"
+            "Data Visualization Tools"
         ]
     },
     {
         "ID": "in-c8ed64a1e80abd50",
-        "years_experience": "2+",
+        "location": "Long Beach, CA, US",
+        "date": "2026-03-30",
+        "years_experience": "2",
         "salary": "N/A",
         "in-person/remote/hybrid": "in-person",
         "fulltime/parttime/internship": "fulltime",
@@ -4224,18 +4858,32 @@
     },
     {
         "ID": "in-78353f4cd567dded",
-        "years_experience": "5 years",
+        "location": "Orange, CA, US",
+        "date": "2026-03-30",
+        "years_experience": "5",
         "salary": "$84,092 - $134,548",
-        "in-person/remote/hybrid": "Full Office",
+        "in-person/remote/hybrid": "in-person",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
-        "tools": "Microsoft Office (Word, Outlook, Excel, PowerPoint), Jira, Confluence, ServiceNow, Smartsheet, MS Project"
+        "tools": [
+            "Word",
+            "Outlook",
+            "Excel",
+            "PowerPoint",
+            "Jira",
+            "Confluence",
+            "ServiceNow",
+            "Smartsheet",
+            "MS Project"
+        ]
     },
     {
         "ID": "in-3873ea00e58923ec",
-        "years_experience": "3 years",
-        "salary": "$115,500.00 - $154,800.00",
-        "in-person/remote/hybrid": "in-person",
+        "location": "Glendale, CA, US",
+        "date": "2026-04-02",
+        "years_experience": "3",
+        "salary": "$115,500.00 - $154,800.00 per year",
+        "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
         "tools": [
@@ -4245,9 +4893,11 @@
     },
     {
         "ID": "in-5c4243dff2e324a3",
+        "location": "Glendale, CA, US",
+        "date": "2026-04-02",
         "years_experience": "1-2 years",
         "salary": "$87,100.00 - $116,800.00",
-        "in-person/remote/hybrid": "in-person",
+        "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
         "tools": [
@@ -4257,7 +4907,9 @@
     },
     {
         "ID": "in-8ff6b7bcc87c6996",
-        "years_experience": "2 years",
+        "location": "Los Angeles, CA, US",
+        "date": "2026-03-30",
+        "years_experience": "2",
         "salary": "$33.96 - $69.54 hourly",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
@@ -4274,6 +4926,8 @@
     },
     {
         "ID": "in-4d8b5e89ac4335bb",
+        "location": "San Diego, CA, US",
+        "date": "2026-03-30",
         "years_experience": "4-8 years",
         "salary": "$70,304.00 - $102,806.00",
         "in-person/remote/hybrid": "N/A",
@@ -4291,39 +4945,46 @@
     },
     {
         "ID": "in-34012c0a052fae94",
+        "location": "Long Beach, CA, US",
+        "date": "2026-03-30",
         "years_experience": "7",
         "salary": "N/A",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
             "SQL",
-            "PL/SQL",
+            "PL-SQL",
             "SAS"
         ],
         "tools": [
             "Tableau",
             "Excel",
             "Business Objects",
+            "MS Office",
             "Access",
             "Unix"
         ]
     },
     {
         "ID": "in-e2d0303ef554f04d",
+        "location": "Costa Mesa, CA, US",
+        "date": "2026-03-30",
         "years_experience": "2+",
         "salary": "$77,850 - $122,330",
-        "in-person/remote/hybrid": "in-person",
+        "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
         "tools": [
-            "Power BI",
+            "PowerBI",
             "ADP",
             "SuccessFactors",
-            "Microsoft Office Suite"
+            "Microsoft Office"
         ]
     },
     {
         "ID": "in-55392aaf6400223f",
+        "location": "Los Angeles, CA, US",
+        "date": "2026-03-30",
         "years_experience": "N/A",
         "salary": "$19.00 - $21.00",
         "in-person/remote/hybrid": "in-person",
@@ -4333,6 +4994,8 @@
     },
     {
         "ID": "in-4f052e30cd490965",
+        "location": "El Segundo, CA, US",
+        "date": "2026-03-30",
         "years_experience": "N/A",
         "salary": "$30.00 - $32.00 per hour",
         "in-person/remote/hybrid": "in-person",
@@ -4347,7 +5010,7 @@
             "SAP S/4HANA",
             "SAP Ariba",
             "SAP Fieldglass",
-            "Excel",
+            "Microsoft Excel",
             "Power BI",
             "Tableau",
             "AWS",
@@ -4358,7 +5021,9 @@
     },
     {
         "ID": "in-afc759e9ee684e03",
-        "years_experience": "2 years",
+        "location": "Palmdale, CA, US",
+        "date": "2026-03-30",
+        "years_experience": "2",
         "salary": "$41.02 - $58.45 per hour",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
@@ -4367,7 +5032,9 @@
     },
     {
         "ID": "in-9e7577a0d6df10d7",
-        "years_experience": "3-7 years",
+        "location": "San Diego, CA, US",
+        "date": "2026-03-30",
+        "years_experience": "3-7",
         "salary": "$83,426 - $145,997",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
@@ -4375,13 +5042,12 @@
             "SQL"
         ],
         "tools": [
-            "MS Office",
+            "Microsoft Office",
             "Word",
             "PowerPoint",
             "Excel",
             "Visio",
             "Outlook",
-            "Oracle forms",
             "Golden 32",
             "MedOptimize",
             "UNIX",
@@ -4391,6 +5057,8 @@
     },
     {
         "ID": "in-3353e4fabe88939b",
+        "location": "Los Angeles, CA, US",
+        "date": "2026-03-31",
         "years_experience": "2-3 years",
         "salary": "$95,680.00 - $158,230.00",
         "in-person/remote/hybrid": "N/A",
@@ -4404,6 +5072,7 @@
             "Cerner",
             "Showcase",
             "Kronos",
+            "Enterprise reporting",
             "Excel",
             "PowerPoint",
             "Access"
@@ -4411,6 +5080,8 @@
     },
     {
         "ID": "in-07ac0aa2b47e7cef",
+        "location": "Los Angeles, CA, US",
+        "date": "2026-03-30",
         "years_experience": "2-3 years",
         "salary": "$95,680.00 - $158,230.00",
         "in-person/remote/hybrid": "N/A",
@@ -4432,8 +5103,10 @@
     },
     {
         "ID": "in-5063c3e4f7dd5735",
-        "years_experience": "4\u20137+",
-        "salary": "$85,000 - $105,000 a year",
+        "location": "Irvine, CA, US",
+        "date": "2026-03-30",
+        "years_experience": "4-7+",
+        "salary": "$85,000 - $105,000",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
@@ -4448,18 +5121,22 @@
     },
     {
         "ID": "in-df4962e2751a8752",
+        "location": "Los Angeles, CA, US",
+        "date": "2026-03-30",
         "years_experience": "2-3 years",
         "salary": "$65,000.00- $80,000.00/Yearly",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
         "tools": [
-            "electronic health records (EHR)",
+            "electronic health records",
             "quality management systems"
         ]
     },
     {
         "ID": "in-32e5c1b00c697680",
+        "location": "San Diego, CA, US",
+        "date": "2026-03-30",
         "years_experience": "N/A",
         "salary": "N/A",
         "in-person/remote/hybrid": "hybrid",
@@ -4469,13 +5146,17 @@
     },
     {
         "ID": "in-06fd760e89813904",
-        "years_experience": "5+",
+        "location": "Rosemead, CA, US",
+        "date": "2026-03-29",
+        "years_experience": "5",
         "salary": "N/A",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
         "tools": [
             "SAP Ariba",
+            "SLP",
+            "SNP",
             "SAP Risk",
             "iCertis",
             "SAP ECC",
@@ -4483,7 +5164,18 @@
         ]
     },
     {
-        "ID": "in-5a211720bddb50e9",
+        "ID": "JR2026503401",
+        "location": [
+            "Seattle, WA",
+            "North Charleston, SC",
+            "Hazelwood, MO",
+            "Long Beach, CA",
+            "Mesa, AZ",
+            "Miami, FL",
+            "Ridley Park, PA",
+            "Plano, TX"
+        ],
+        "date": "2026-03-30",
         "years_experience": "5+",
         "salary": "$119,850 \u2013 $173,650",
         "in-person/remote/hybrid": "hybrid",
@@ -4493,9 +5185,8 @@
         ],
         "tools": [
             "Oracle",
-            "GOLDesp",
             "GOLD",
-            "IGOLD",
+            "GOLDesp",
             "TAM Tools",
             "Crystal Reporting",
             "DataStage"
@@ -4503,8 +5194,10 @@
     },
     {
         "ID": "in-de0d07e5d5eadda5",
+        "location": "West Hollywood, CA, US",
+        "date": "2026-03-29",
         "years_experience": "2+",
-        "salary": "$86,000 - $110,000",
+        "salary": "$86,000.00 - 110,000.00",
         "in-person/remote/hybrid": "in-person",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
@@ -4516,8 +5209,8 @@
             "Excel",
             "Tableau",
             "Google Collaborative Apps",
-            "Google Cloud Platform",
             "BigQuery",
+            "Google Cloud Platform",
             "JIRA",
             "Confluence",
             "GitHub"
@@ -4525,8 +5218,10 @@
     },
     {
         "ID": "in-3bc9a124174829d3",
+        "location": "Rosemead, CA, US",
+        "date": "2026-03-29",
         "years_experience": "2-5 years",
-        "salary": "65,300 - 94,700 USD",
+        "salary": "65,300.00 \u2013 94,700.00 USD",
         "in-person/remote/hybrid": "in-person",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
@@ -4547,6 +5242,8 @@
     },
     {
         "ID": "in-64d8ea27816dc8ca",
+        "location": "San Diego, CA, US",
+        "date": "2026-03-29",
         "years_experience": "3+",
         "salary": "$73,630 - $108,068",
         "in-person/remote/hybrid": "hybrid",
@@ -4558,15 +5255,21 @@
     },
     {
         "ID": "in-83cb308fb5124c7e",
+        "location": "Hawthorne, CA, US",
+        "date": "2026-03-29",
         "years_experience": "N/A",
-        "salary": "$87,020 - $185,820/annual salary",
+        "salary": "$87,020 - $185,820",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
-        "tools": "AI"
+        "tools": [
+            "AI"
+        ]
     },
     {
         "ID": "in-a4c10941412adf8c",
+        "location": "Long Beach, CA",
+        "date": "2026-03-30",
         "years_experience": "1+",
         "salary": "$68,000 - $92,000",
         "in-person/remote/hybrid": "in-person",
@@ -4579,7 +5282,9 @@
         ]
     },
     {
-        "ID": "in-f29596ea754fe843",
+        "ID": "JR2026501508",
+        "location": "Long Beach, CA",
+        "date": "2026-03-30",
         "years_experience": "3+",
         "salary": "$85,000 - $115,000",
         "in-person/remote/hybrid": "in-person",
@@ -4593,13 +5298,14 @@
     },
     {
         "ID": "in-89b2cd87d4edceb0",
-        "years_experience": "9 years",
+        "location": "San Diego, CA, US",
+        "date": "2026-03-29",
+        "years_experience": "5-9",
         "salary": "$120,000 - $166,413 / Year",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "parttime",
         "programming_languages": [
-            "SQL",
-            "SAS"
+            "SQL"
         ],
         "tools": [
             "Epic Clarity",
@@ -4608,16 +5314,19 @@
             "Power BI",
             "Tableau",
             "Oracle",
+            "SAS",
             "Crystal Reports",
             "Microsoft SQL",
-            "Epic Caboodle Data Warehouse",
+            "Caboodle Data Warehouse",
             "Epic Radar",
-            "Epic Slicerdicer",
+            "Slicerdicer",
             "ServiceNow"
         ]
     },
     {
         "ID": "in-0a91828651ec2b3b",
+        "location": "Redlands, CA, US",
+        "date": "2026-03-29",
         "years_experience": "5+",
         "salary": "N/A",
         "in-person/remote/hybrid": "in-person",
@@ -4630,6 +5339,8 @@
     },
     {
         "ID": "in-a6b44e4dc557bb8c",
+        "location": "Carlsbad, CA, US",
+        "date": "2026-03-29",
         "years_experience": "4 years",
         "salary": "N/A",
         "in-person/remote/hybrid": "N/A",
@@ -4640,23 +5351,39 @@
         ],
         "tools": [
             "Power BI",
-            "Excel"
+            "Microsoft Excel",
+            "Power Query M",
+            "DAX"
         ]
     },
     {
         "ID": "in-387b20d49bd6024f",
-        "years_experience": "3+ years",
-        "salary": "$97,700 - $130,300",
+        "location": "Santa Ana, CA, US",
+        "date": "2026-03-22",
+        "years_experience": "3",
+        "salary": "$97,700.00 - $130,300.00",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
-        "tools": "SIEM, Email Security Gateways, Endpoint Security, IDS/IPS, DLP, Microsoft Word, Excel, PowerPoint"
+        "tools": [
+            "SIEM",
+            "Email Security Gateways",
+            "Endpoint Security",
+            "IDS",
+            "IPS",
+            "DLP",
+            "Microsoft Word",
+            "Excel",
+            "PowerPoint"
+        ]
     },
     {
         "ID": "in-a257ced808b28066",
+        "location": "Santa Ana, CA, US",
+        "date": "2026-03-19",
         "years_experience": "N/A",
         "salary": "$40.00 - $45.00 hourly",
-        "in-person/remote/hybrid": "hybrid",
+        "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "internship",
         "programming_languages": "N/A",
         "tools": [
@@ -4666,6 +5393,8 @@
     },
     {
         "ID": "in-9764f9eaf61bc886",
+        "location": "Santa Ana, CA, US",
+        "date": "2026-03-17",
         "years_experience": "N/A",
         "salary": "$20 - $28 / hr",
         "in-person/remote/hybrid": "N/A",
@@ -4683,20 +5412,22 @@
     },
     {
         "ID": "in-366f72b04b299a51",
+        "location": "Santa Ana, CA, US",
+        "date": "2026-02-03",
         "years_experience": "7+",
-        "salary": "$112,400.00 - $149,800.00",
+        "salary": "$112,400 - $149,800",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
             "SQL"
         ],
-        "tools": [
-            "graphDB"
-        ]
+        "tools": "N/A"
     },
     {
         "ID": "in-24425ad388489cc1",
-        "years_experience": "2-5 years",
+        "location": "Riverside, CA, US",
+        "date": "2026-01-20",
+        "years_experience": "2-5",
         "salary": "$69,600 - 142,700 USD",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
@@ -4706,6 +5437,9 @@
         ],
         "tools": [
             "Tableau",
+            "Pandas",
+            "NumPy",
+            "Matplotlib",
             "Power BI",
             "Looker",
             "AWS",
@@ -4715,7 +5449,9 @@
     },
     {
         "ID": "in-d99225e80869209d",
-        "years_experience": "2 years",
+        "location": "San Francisco, CA, US",
+        "date": "2026-04-02",
+        "years_experience": "2",
         "salary": "N/A",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
@@ -4729,7 +5465,9 @@
     },
     {
         "ID": "in-54f0fc4f489ded30",
-        "years_experience": "2 years",
+        "location": "Union City, CA, US",
+        "date": "2026-04-02",
+        "years_experience": "2",
         "salary": "$29.21 - $33.31 per hour",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
@@ -4737,15 +5475,16 @@
             "SQL"
         ],
         "tools": [
-            "EPIC",
-            "OCHIN EPIC",
+            "Epic",
+            "OCHIN",
             "Ella",
             "JIRA",
-            "Dexis",
             "Reporting Workbench",
             "SlicerDicer",
+            "Dashboards",
             "SSRS",
             "Tableau",
+            "Dexis",
             "Office 365",
             "Word",
             "Excel",
@@ -4759,6 +5498,8 @@
     },
     {
         "ID": "in-a66375053bf81bc3",
+        "location": "Irvine, CA",
+        "date": "2026-04-02",
         "years_experience": "10+",
         "salary": "$55\u2013$60/hr",
         "in-person/remote/hybrid": "in-person",
@@ -4770,8 +5511,10 @@
     },
     {
         "ID": "in-4378b06b178cf8ce",
+        "location": "Palo Alto, CA, US",
+        "date": "2026-04-01",
         "years_experience": "6+",
-        "salary": "$116,875 \u2013 $158,125",
+        "salary": "$116,875 \u2013 $158,125 per year",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
@@ -4784,6 +5527,8 @@
     },
     {
         "ID": "in-e0b20f2f5b19d17d",
+        "location": "Santa Clara, CA, US",
+        "date": "2026-04-01",
         "years_experience": "2-4 years",
         "salary": "$91,800 - $114,785",
         "in-person/remote/hybrid": "hybrid",
@@ -4796,16 +5541,19 @@
         ],
         "tools": [
             "Tableau",
-            "Power BI",
+            "PowerBI",
             "MySQL",
             "PostgreSQL",
-            "ERP",
+            "Workday",
+            "Prism",
             "MS Office"
         ]
     },
     {
         "ID": "in-437a947f41b48341",
-        "years_experience": "4\u20136+ years",
+        "location": "Brisbane, CA, US",
+        "date": "2026-04-01",
+        "years_experience": "4-6+",
         "salary": "N/A",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
@@ -4813,14 +5561,17 @@
             "SQL"
         ],
         "tools": [
-            "Linux/Unix",
+            "Linux",
+            "Unix",
             "SFTP",
             "InfoIMAGE"
         ]
     },
     {
         "ID": "in-03a22ae6136ca836",
-        "years_experience": "4+ years",
+        "location": "San Francisco, CA, US",
+        "date": "2026-04-01",
+        "years_experience": "4",
         "salary": "$92,500 - $140,500",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
@@ -4833,6 +5584,8 @@
     },
     {
         "ID": "in-17dc14d4abaeea86",
+        "location": "Palo Alto, CA, US",
+        "date": "2026-04-01",
         "years_experience": "6+",
         "salary": "$116,875 \u2013 $158,125 per year",
         "in-person/remote/hybrid": "hybrid",
@@ -4847,8 +5600,10 @@
     },
     {
         "ID": "in-07b7bfbb914b79c4",
+        "location": "San Jose, CA, US",
+        "date": "2026-04-01",
         "years_experience": "7+",
-        "salary": "$133,100 - $236,400",
+        "salary": "$163,200 - $236,400",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
@@ -4864,7 +5619,9 @@
     },
     {
         "ID": "in-93d5af2bd7affb67",
-        "years_experience": "5 years",
+        "location": "LATAM, Amsterdam, or Madrid",
+        "date": "2026-04-01",
+        "years_experience": "5",
         "salary": "N/A",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
@@ -4881,24 +5638,29 @@
     },
     {
         "ID": "in-76595a11fa3d6406",
-        "years_experience": "2 years",
+        "location": "Sacramento, CA, US",
+        "date": "2026-04-01",
+        "years_experience": "2",
         "salary": "$82,212 - $110,976",
-        "in-person/remote/hybrid": "Hybrid",
-        "fulltime/parttime/internship": "Full Time",
+        "in-person/remote/hybrid": "hybrid",
+        "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
             "VBA"
         ],
         "tools": [
-            "Excel",
-            "ERP systems",
+            "Microsoft Excel",
+            "ERP",
+            "Macros",
             "Alteryx",
             "Tableau"
         ]
     },
     {
         "ID": "in-10ff9c2bb88b9c4f",
-        "years_experience": "2+ years",
-        "salary": "$70,000 - $114,500/yr",
+        "location": "Santa Clara, CA, US",
+        "date": "2026-04-01",
+        "years_experience": "2+",
+        "salary": "$70,000.00 - $114,500.00/yr",
         "in-person/remote/hybrid": "in-person",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
@@ -4910,8 +5672,10 @@
     },
     {
         "ID": "in-f3e8d8ea6a382c8e",
-        "years_experience": "2+ years",
-        "salary": "$131,000 - $145,500",
+        "location": "San Francisco, CA, US",
+        "date": "2026-04-01",
+        "years_experience": "2+",
+        "salary": "USD$131,000 - USD$145,500",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
@@ -4921,28 +5685,34 @@
         ],
         "tools": [
             "Excel",
-            "Qualtrics"
+            "Qualtrics",
+            "Generative AI"
         ]
     },
     {
         "ID": "in-9eea8c5815cd738b",
+        "location": "Sacramento County, CA, US",
+        "date": "2026-04-01",
         "years_experience": "N/A",
         "salary": "$6,031.00 - $7,547.00 per Month",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
         "tools": [
-            "Microsoft Word",
-            "Microsoft Excel",
-            "Microsoft PowerPoint",
-            "Microsoft Teams",
-            "Microsoft Outlook"
+            "Microsoft Office",
+            "Word",
+            "Excel",
+            "PowerPoint",
+            "Teams",
+            "Outlook"
         ]
     },
     {
         "ID": "in-a21aabd084bbddc4",
+        "location": "Santa Clara, CA, US",
+        "date": "2026-04-01",
         "years_experience": "2+",
-        "salary": "79,740 - 119,500 USD",
+        "salary": "79,740 - 119,500",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
@@ -4956,7 +5726,9 @@
     },
     {
         "ID": "in-26f28b9e27d24510",
-        "years_experience": "3+",
+        "location": "Walnut Creek, CA, US",
+        "date": "2026-04-01",
+        "years_experience": "3",
         "salary": "$33.96 to $43.96 per hour",
         "in-person/remote/hybrid": "in-person",
         "fulltime/parttime/internship": "fulltime",
@@ -4969,7 +5741,9 @@
     },
     {
         "ID": "in-d878de3e41d8a375",
-        "years_experience": "3+",
+        "location": "San Francisco, CA, US",
+        "date": "2026-04-01",
+        "years_experience": "3",
         "salary": "$33.96 to $43.96 per hour",
         "in-person/remote/hybrid": "in-person",
         "fulltime/parttime/internship": "fulltime",
@@ -4977,12 +5751,14 @@
             "SQL"
         ],
         "tools": [
-            "ETL"
+            "N/A"
         ]
     },
     {
         "ID": "in-1cc5b93d2577b716",
-        "years_experience": "3+",
+        "location": "Mountain View, CA, US",
+        "date": "2026-04-01",
+        "years_experience": "3",
         "salary": "$33.96 to $43.96 per hour",
         "in-person/remote/hybrid": "in-person",
         "fulltime/parttime/internship": "fulltime",
@@ -4995,6 +5771,8 @@
     },
     {
         "ID": "in-02e44f60258d5534",
+        "location": "Sacramento, CA, US",
+        "date": "2026-04-01",
         "years_experience": "3",
         "salary": "$33.96 to $43.96 per hour",
         "in-person/remote/hybrid": "in-person",
@@ -5008,7 +5786,9 @@
     },
     {
         "ID": "in-77ce0ec0ed4825f6",
-        "years_experience": "5-7 years",
+        "location": "Mountain View, CA, US",
+        "date": "2026-04-01",
+        "years_experience": "5-7",
         "salary": "$132,000-$189,000",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
@@ -5023,9 +5803,11 @@
     },
     {
         "ID": "in-5784761751b22da8",
+        "location": "San Bruno, CA, USA; Mountain View, CA, USA; New York, NY, USA",
+        "date": "2026-04-01",
         "years_experience": "5",
         "salary": "$153,000-$222,000",
-        "in-person/remote/hybrid": "in-person",
+        "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
             "SQL"
@@ -5037,9 +5819,11 @@
     },
     {
         "ID": "in-25169f0296867ee6",
+        "location": "San Bruno, CA, USA; Mountain View, CA, USA; New York, NY, USA",
+        "date": "2026-04-01",
         "years_experience": "5",
         "salary": "$153,000-$222,000",
-        "in-person/remote/hybrid": "in-person",
+        "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
             "SQL"
@@ -5051,9 +5835,11 @@
     },
     {
         "ID": "in-4443b5f78ced2ccd",
-        "years_experience": "6 - 10 years",
+        "location": "Mountain View, CA, US",
+        "date": "2026-04-01",
+        "years_experience": "6-10 years",
         "salary": "N/A",
-        "in-person/remote/hybrid": "in-person",
+        "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
             "SQL",
@@ -5065,6 +5851,8 @@
     },
     {
         "ID": "in-bae6fd1aa77c0b86",
+        "location": "Rancho Cordova, CA, US",
+        "date": "2026-04-15",
         "years_experience": "N/A",
         "salary": "$6,330.00 - $7,929.00 per Month",
         "in-person/remote/hybrid": "hybrid",
@@ -5079,6 +5867,8 @@
     },
     {
         "ID": "in-96936178b1f5ef74",
+        "location": "Sacramento County, CA, US",
+        "date": "2026-04-01",
         "years_experience": "N/A",
         "salary": "$6,623.00 - $8,290.00 per Month",
         "in-person/remote/hybrid": "hybrid",
@@ -5088,6 +5878,8 @@
     },
     {
         "ID": "in-b7ffb32f2fd78317",
+        "location": "Sacramento County, CA, US",
+        "date": "2026-04-01",
         "years_experience": "N/A",
         "salary": "$6,031.00 - $7,547.00 per Month",
         "in-person/remote/hybrid": "hybrid",
@@ -5097,29 +5889,35 @@
     },
     {
         "ID": "in-26be8d6abb5fc33c",
+        "location": "Alameda County, CA, US",
+        "date": "2026-04-11",
         "years_experience": "N/A",
         "salary": "$6,031.00 - $7,547.00 per Month",
         "in-person/remote/hybrid": "Hybrid",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
         "tools": [
-            "SharePoint",
             "Excel",
             "Power BI",
-            "Power Automate"
+            "Power Automate",
+            "SharePoint Online"
         ]
     },
     {
         "ID": "in-08d1a733f9f2d3cb",
+        "location": "San Francisco, CA, US",
+        "date": "2026-04-01",
         "years_experience": "0-2 years",
         "salary": "$55,000 - $65,000",
-        "in-person/remote/hybrid": "In-person",
+        "in-person/remote/hybrid": "in-person",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
         "tools": "N/A"
     },
     {
         "ID": "in-ea1bd11d6e63a499",
+        "location": "Santa Clara, CA, US",
+        "date": "2026-03-31",
         "years_experience": "5+",
         "salary": "N/A",
         "in-person/remote/hybrid": "hybrid",
@@ -5128,14 +5926,15 @@
         "tools": [
             "Salesforce",
             "Tableau",
-            "MS Office",
             "Excel",
             "PowerPoint"
         ]
     },
     {
         "ID": "in-8ce3b03d6a684257",
-        "years_experience": "5+ years",
+        "location": "San Francisco, CA, US",
+        "date": "2026-03-31",
+        "years_experience": "5+",
         "salary": "N/A",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
@@ -5143,14 +5942,15 @@
         "tools": [
             "Salesforce",
             "Tableau",
-            "MS Office",
             "Excel",
             "PowerPoint"
         ]
     },
     {
         "ID": "in-0208892a97538664",
-        "years_experience": "6 years",
+        "location": "San Francisco, CA, US",
+        "date": "2026-03-31",
+        "years_experience": "6",
         "salary": "$133,000 - $208,000",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
@@ -5169,16 +5969,29 @@
     },
     {
         "ID": "in-4af69603a84a0ffa",
+        "location": "Ottawa, Ontario",
+        "date": "2026-03-31",
         "years_experience": "N/A",
         "salary": "$107,000 - $114,000 CAD",
         "in-person/remote/hybrid": "in-person",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
-        "tools": "SEM, TEM, EDS, EELS, SIMS, FTIR, Raman, SRP"
+        "tools": [
+            "SEM",
+            "TEM",
+            "EDS",
+            "EELS",
+            "SIMS",
+            "FTIR",
+            "Raman",
+            "SRP"
+        ]
     },
     {
         "ID": "in-6bd0cdf5bcdb2116",
-        "years_experience": "2\u20134 years",
+        "location": "San Francisco, CA, US",
+        "date": "2026-03-31",
+        "years_experience": "2-4 years",
         "salary": "$75K - $125K",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
@@ -5186,6 +5999,9 @@
             "SQL"
         ],
         "tools": [
+            "Meta",
+            "Google",
+            "Apple Search Ads",
             "Appsflyer",
             "Adjust",
             "Amplitude",
@@ -5197,7 +6013,9 @@
     },
     {
         "ID": "in-8f5052b5f5397eee",
-        "years_experience": "2\u20134 years",
+        "location": "San Francisco, CA, US",
+        "date": "2026-03-31",
+        "years_experience": "2-4 years",
         "salary": "$75K - $125K",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
@@ -5205,6 +6023,9 @@
             "SQL"
         ],
         "tools": [
+            "Meta",
+            "Google",
+            "Apple Search Ads",
             "Appsflyer",
             "Adjust",
             "Amplitude",
@@ -5216,17 +6037,23 @@
     },
     {
         "ID": "in-0710e0af771bb2e8",
-        "years_experience": "2\u20134+",
+        "location": "Santa Rosa, CA, US",
+        "date": "2026-03-31",
+        "years_experience": "2-4+",
         "salary": "$90K \u2013 $120K",
-        "in-person/remote/hybrid": "On-Site",
+        "in-person/remote/hybrid": "in-person",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
-        "tools": "Excel"
+        "tools": [
+            "Excel"
+        ]
     },
     {
         "ID": "in-a565f7b822fbd7e2",
+        "location": "Livermore, CA, US",
+        "date": "2026-03-31",
         "years_experience": "N/A",
-        "salary": "$80,448 - $168,852 Yearly",
+        "salary": "$80,448 - $168,852",
         "in-person/remote/hybrid": "remote",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
@@ -5240,6 +6067,7 @@
             "PeopleSoft",
             "OTBI",
             "BI Publisher",
+            "LAPIS",
             "Power BI",
             "Tableau",
             "ServiceNow",
@@ -5248,8 +6076,10 @@
     },
     {
         "ID": "in-34eafdb31bc4d1c0",
-        "years_experience": "7-10+ years",
-        "salary": "$104,000 - $156,000",
+        "location": "Milpitas, CA, US",
+        "date": "2026-03-31",
+        "years_experience": "7-10+",
+        "salary": "$104,000.00 - $156,000.00",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
@@ -5259,13 +6089,23 @@
         "tools": [
             "Power BI",
             "Microsoft Fabric",
-            "Oracle ERP"
+            "Oracle ERP R12",
+            "Oracle Fusion Cloud ERP",
+            "Lakehouse",
+            "Dataflows Gen2",
+            "Pipelines",
+            "Semantic Models",
+            "Notebooks",
+            "Power Query",
+            "OneLake"
         ]
     },
     {
         "ID": "in-16fcb162a813b661",
+        "location": "Watsonville, CA, US",
+        "date": "2026-03-31",
         "years_experience": "N/A",
-        "salary": "$20.00 - $21.00 per hour",
+        "salary": "$20.00 - $21.00",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "internship",
         "programming_languages": [
@@ -5279,6 +6119,8 @@
     },
     {
         "ID": "in-f790f57314ec2d76",
+        "location": "Petaluma, CA, US",
+        "date": "2026-03-31",
         "years_experience": "N/A",
         "salary": "$18-$23/hr",
         "in-person/remote/hybrid": "in-person",
@@ -5286,12 +6128,17 @@
         "programming_languages": "N/A",
         "tools": [
             "Microsoft Office",
+            "Word",
+            "PowerPoint",
+            "Excel",
             "Power BI",
             "Microsoft Co-Pilot"
         ]
     },
     {
         "ID": "in-5110a4cd15844b04",
+        "location": "Palo Alto, CA, US",
+        "date": "2026-03-30",
         "years_experience": "N/A",
         "salary": "$28.00 - $31.00 hourly",
         "in-person/remote/hybrid": "in-person",
@@ -5308,25 +6155,54 @@
     },
     {
         "ID": "in-cc6a2f908c296ae0",
-        "years_experience": "3-5 years",
-        "salary": "$76,800.52-$139,363.90 per year",
+        "location": "Sacramento, CA, US",
+        "date": "2026-03-30",
+        "years_experience": "5",
+        "salary": "$76,800.52 - $139,363.90 annually",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
-        "tools": "Tableau, Power BI, Excel, EPIC Slicer Dicer, Reporting Workbench, SIS Analytics, C8 Health AI, Microsoft Access, AQI NACOR, MPOG, Epic EMR"
+        "tools": [
+            "Epic Slicer Dicer",
+            "Reporting Workbench",
+            "SIS Analytics",
+            "C8 Health AI",
+            "Microsoft Access",
+            "Microsoft Excel",
+            "Epic EMR",
+            "C8 Health",
+            "AQI NACOR",
+            "MPOG",
+            "Epic Clarity"
+        ]
     },
     {
         "ID": "in-15c882d4a19846f1",
-        "years_experience": "3-5 years",
-        "salary": "$76,804.52 - $139,363.90 per year",
+        "location": "Davis, CA, US",
+        "date": "2026-03-30",
+        "years_experience": "3",
+        "salary": "$2,954.02-$5,360.15 Biweekly",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
-        "tools": "Tableau, Power BI, Excel, Access, Epic Slicer Dicer, Reporting Workbench, SIS Analytics, C8 Health AI, EPIC, AQI NACOR, MPOG"
+        "tools": [
+            "Epic",
+            "Microsoft Excel",
+            "Microsoft Access",
+            "Epic Slicer Dicer",
+            "Reporting Workbench",
+            "SIS Analytics",
+            "C8 Health AI",
+            "AQI",
+            "NACOR",
+            "MPOG"
+        ]
     },
     {
         "ID": "in-f6d9926adb512534",
-        "years_experience": "3+ years",
+        "location": "Stanford, CA, US",
+        "date": "2026-03-30",
+        "years_experience": "3",
         "salary": "$108,002 - $128,138",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
@@ -5339,6 +6215,8 @@
     },
     {
         "ID": "in-ec8dc62f9d10604f",
+        "location": "San Ramon, CA, US",
+        "date": "2026-03-30",
         "years_experience": "N/A",
         "salary": "$23.50 - $34.25 per hour",
         "in-person/remote/hybrid": "in-person",
@@ -5350,11 +6228,18 @@
         ],
         "tools": [
             "Excel",
+            "VLOOKUP",
+            "SUMIFS",
+            "COUNTIFS",
+            "Pivot Tables",
+            "Data connections",
             "Tableau"
         ]
     },
     {
         "ID": "in-0bda742aded46305",
+        "location": "San Jose, CA, US",
+        "date": "2026-03-30",
         "years_experience": "1 to 3 years",
         "salary": "N/A",
         "in-person/remote/hybrid": "remote",
@@ -5377,22 +6262,25 @@
     },
     {
         "ID": "in-cd645d9d6b23d512",
-        "years_experience": "2 years",
+        "location": "San Jose, CA, US",
+        "date": "2026-03-30",
+        "years_experience": "2",
         "salary": "N/A",
-        "in-person/remote/hybrid": "remote",
+        "in-person/remote/hybrid": "Remote",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
             "SQL",
             "Python"
         ],
         "tools": [
-            "BigQuery",
-            "BI tools"
+            "BigQuery"
         ]
     },
     {
         "ID": "in-20cc879049c49666",
-        "years_experience": "5-10 years",
+        "location": "Dublin, CA, US",
+        "date": "2026-03-30",
+        "years_experience": "5-10",
         "salary": "$150,212 / yearly",
         "in-person/remote/hybrid": "in-person",
         "fulltime/parttime/internship": "fulltime",
@@ -5401,15 +6289,18 @@
         ],
         "tools": [
             "Tableau",
-            "Salesforce Marketing Cloud",
+            "Sales Force Marketing Cloud",
             "Google Analytics",
             "Informatica",
             "Snowflake",
-            "SQL Server"
+            "SQL Server",
+            "IICS"
         ]
     },
     {
         "ID": "in-d8b0f9fff12d2e19",
+        "location": "San Francisco Bay Area, CA, US",
+        "date": "2026-03-30",
         "years_experience": "N/A",
         "salary": "$160,000 - $180,000",
         "in-person/remote/hybrid": "in-person",
@@ -5425,7 +6316,9 @@
     },
     {
         "ID": "in-8b2dc42bb142fcac",
-        "years_experience": "5\u20138+ years",
+        "location": "San Francisco, CA, US",
+        "date": "2026-03-30",
+        "years_experience": "5-8+",
         "salary": "$70 per hour",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
@@ -5438,6 +6331,8 @@
     },
     {
         "ID": "in-030185011b1fb79d",
+        "location": "Palo Alto, CA, US",
+        "date": "2026-03-30",
         "years_experience": "N/A",
         "salary": "$28.00 - $31.00 hourly",
         "in-person/remote/hybrid": "in-person",
@@ -5454,7 +6349,9 @@
     },
     {
         "ID": "in-7d2fe4539eb33509",
-        "years_experience": "2\u20134 years",
+        "location": "San Francisco, CA, US",
+        "date": "2026-03-30",
+        "years_experience": "2-4 years",
         "salary": "$75K - $125K",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
@@ -5475,6 +6372,8 @@
     },
     {
         "ID": "in-17d41ae5bd4c4352",
+        "location": "San Francisco, CA, US",
+        "date": "2026-03-30",
         "years_experience": "2-4 years",
         "salary": "$75K - $125K",
         "in-person/remote/hybrid": "N/A",
@@ -5496,6 +6395,8 @@
     },
     {
         "ID": "in-05467640415de1e2",
+        "location": "Watsonville, CA, US",
+        "date": "2026-03-30",
         "years_experience": "N/A",
         "salary": "$20.00 - $21.00 per hour",
         "in-person/remote/hybrid": "N/A",
@@ -5511,6 +6412,8 @@
     },
     {
         "ID": "in-eaf28c6a27f51b88",
+        "location": "Walnut Creek, CA, US",
+        "date": "2026-03-30",
         "years_experience": "N/A",
         "salary": "N/A",
         "in-person/remote/hybrid": "N/A",
@@ -5525,6 +6428,8 @@
     },
     {
         "ID": "in-4ddaca90c409aedc",
+        "location": "Mather, CA, US",
+        "date": "2026-03-30",
         "years_experience": "N/A",
         "salary": "$6,031.00 - $7,547.00 per Month",
         "in-person/remote/hybrid": "hybrid",
@@ -5541,6 +6446,8 @@
     },
     {
         "ID": "in-9c117d75fc8ffcb2",
+        "location": "Sacramento County, CA, US",
+        "date": "2026-03-30",
         "years_experience": "N/A",
         "salary": "$6,031.00 - $7,547.00 per Month",
         "in-person/remote/hybrid": "hybrid",
@@ -5555,20 +6462,22 @@
     },
     {
         "ID": "in-e129f1688142b766",
+        "location": "Oakland, CA, US",
+        "date": "2026-03-29",
         "years_experience": "N/A",
         "salary": "$24.52 - $35.37 per hour",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "internship",
-        "programming_languages": [
-            "N/A"
-        ],
+        "programming_languages": "N/A",
         "tools": [
             "SAP"
         ]
     },
     {
         "ID": "in-ef0c92f38c1dd257",
-        "years_experience": "4 years",
+        "location": "Oakland, CA, US",
+        "date": "2026-03-29",
+        "years_experience": "4",
         "salary": "N/A",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
@@ -5577,35 +6486,55 @@
             "Arcade"
         ],
         "tools": [
-            "GIS",
-            "ArcGIS",
             "Word",
             "Excel",
-            "Access"
+            "Access",
+            "ArcGIS"
         ]
     },
     {
         "ID": "in-522eac54a9080006",
+        "location": "Redwood City, CA, US",
+        "date": "2026-03-29",
         "years_experience": "2\u20134 years",
         "salary": "$101,300-$119,200",
-        "in-person/remote/hybrid": "in-person",
+        "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
-        "tools": "Excel, Dayforce, Workday, UKG, ADP, Power BI, Tableau"
+        "tools": [
+            "Excel",
+            "VLOOKUP",
+            "XLOOKUP",
+            "pivot tables",
+            "Dayforce",
+            "Workday",
+            "UKG",
+            "ADP",
+            "Power BI",
+            "Tableau"
+        ]
     },
     {
         "ID": "in-55074a17ae7bfcbe",
-        "years_experience": "3+ years",
+        "location": "Rohnert Park, CA, US",
+        "date": "2026-03-29",
+        "years_experience": "3+",
         "salary": "$86,500 - $99,100",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
-        "tools": "Excel, Tableau, COMPASS"
+        "tools": [
+            "Excel",
+            "Tableau",
+            "Trayak COMPASS"
+        ]
     },
     {
         "ID": "in-98687b5b5e3d185f",
+        "location": "Fremont, CA, US",
+        "date": "2026-03-29",
         "years_experience": "N/A",
-        "salary": "$88,000 - $162,000/annual salary",
+        "salary": "$88,000 - $162,000",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
@@ -5613,13 +6542,15 @@
             "Python"
         ],
         "tools": [
-            "Excel",
+            "Microsoft Excel",
             "Power Query"
         ]
     },
     {
         "ID": "in-f553742f23bf671a",
-        "years_experience": "4 years",
+        "location": "San Francisco, CA, US",
+        "date": "2026-03-29",
+        "years_experience": "4",
         "salary": "$7,941 - $11,912 per month",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
@@ -5637,6 +6568,8 @@
     },
     {
         "ID": "in-8f5418c67d7aac07",
+        "location": "Sacramento, CA, US",
+        "date": "2026-03-29",
         "years_experience": "N/A",
         "salary": "$8,625.00 - $11,557.00 per Month",
         "in-person/remote/hybrid": "hybrid",
@@ -5648,15 +6581,21 @@
     },
     {
         "ID": "in-deec2be7e28a0491",
+        "location": "Sacramento County, CA, US",
+        "date": "2026-03-29",
         "years_experience": "N/A",
         "salary": "$6,513.00 - $10,537.00 per Month",
-        "in-person/remote/hybrid": "Hybrid",
+        "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
-        "tools": "N/A"
+        "tools": [
+            "N/A"
+        ]
     },
     {
         "ID": "in-c27ae268d8acd4cc",
+        "location": "Sacramento, CA, US",
+        "date": "2026-03-29",
         "years_experience": "N/A",
         "salary": "$6,513.00 - $10,537.00 per Month",
         "in-person/remote/hybrid": "hybrid",
@@ -5668,6 +6607,8 @@
     },
     {
         "ID": "in-912b88f49b991546",
+        "location": "San Francisco, CA, US",
+        "date": "2026-03-29",
         "years_experience": "N/A",
         "salary": "$53,500 - $104,000",
         "in-person/remote/hybrid": "N/A",
@@ -5678,12 +6619,14 @@
             "R"
         ],
         "tools": [
-            "Power BI",
+            "Microsoft Power BI",
             "Alteryx"
         ]
     },
     {
         "ID": "in-2fafdf03ef65a6e0",
+        "location": "Silicon Valley, CA, US",
+        "date": "2026-03-29",
         "years_experience": "N/A",
         "salary": "$53,500 - $104,000",
         "in-person/remote/hybrid": "N/A",
@@ -5700,8 +6643,10 @@
     },
     {
         "ID": "in-f136b32a8e41c646",
+        "location": "San Francisco, CA, US",
+        "date": "2026-03-26",
         "years_experience": "N/A",
-        "salary": "$34.48 - $74.04 (Hourly Rate)",
+        "salary": "$34.48 - $74.04 Hourly",
         "in-person/remote/hybrid": "hybrid",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
@@ -5716,10 +6661,12 @@
     },
     {
         "ID": "in-d00984a88489f339",
+        "location": "San Francisco, CA, US",
+        "date": "2026-03-26",
         "years_experience": "N/A",
         "salary": "N/A",
         "in-person/remote/hybrid": "N/A",
-        "fulltime/parttime/internship": "N/A",
+        "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
             "SQL"
         ],
@@ -5733,10 +6680,12 @@
     },
     {
         "ID": "in-ef49caeac8374712",
+        "location": "San Francisco, CA, US",
+        "date": "2026-03-26",
         "years_experience": "N/A",
         "salary": "N/A",
         "in-person/remote/hybrid": "N/A",
-        "fulltime/parttime/internship": "N/A",
+        "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
             "SQL"
         ],
@@ -5750,10 +6699,12 @@
     },
     {
         "ID": "in-5940696190f30d00",
+        "location": "San Francisco, CA, US",
+        "date": "2026-03-26",
         "years_experience": "N/A",
         "salary": "N/A",
         "in-person/remote/hybrid": "N/A",
-        "fulltime/parttime/internship": "N/A",
+        "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
             "SQL"
         ],
@@ -5767,15 +6718,19 @@
     },
     {
         "ID": "in-0978ad79422bf311",
+        "location": "San Francisco, CA, US",
+        "date": "2026-03-24",
         "years_experience": "N/A",
         "salary": "N/A",
         "in-person/remote/hybrid": "N/A",
-        "fulltime/parttime/internship": "N/A",
+        "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
         "tools": "N/A"
     },
     {
         "ID": "in-0069f3fc04090f62",
+        "location": "San Francisco, CA, US",
+        "date": "2026-03-24",
         "years_experience": "N/A",
         "salary": "N/A",
         "in-person/remote/hybrid": "hybrid",
@@ -5788,6 +6743,8 @@
     },
     {
         "ID": "in-9d45e196b4bed636",
+        "location": "San Carlos, CA, US",
+        "date": "2026-03-22",
         "years_experience": "N/A",
         "salary": "N/A",
         "in-person/remote/hybrid": "hybrid",
@@ -5804,8 +6761,10 @@
     },
     {
         "ID": "in-6a2f057ea903259d",
+        "location": "San Francisco, CA, US",
+        "date": "2026-02-17",
         "years_experience": "10+",
-        "salary": "130,400 - 202,800 USD annually",
+        "salary": "149,900.00 - 202,800.00 USD annually",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": [
@@ -5813,22 +6772,26 @@
             "Python"
         ],
         "tools": [
-            "AWS",
+            "ETL",
             "Oracle",
-            "ETL"
+            "AWS"
         ]
     },
     {
         "ID": "in-d9a46bcb13b3e40d",
-        "years_experience": "4-6 years",
+        "location": "Las Vegas, NV, US",
+        "date": "2026-04-01",
+        "years_experience": "4",
         "salary": "N/A",
-        "in-person/remote/hybrid": "in-person",
+        "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
         "tools": "N/A"
     },
     {
         "ID": "in-924de1fd054adeb0",
+        "location": "Las Vegas, NV, US",
+        "date": "2026-04-01",
         "years_experience": "2-4 years",
         "salary": "N/A",
         "in-person/remote/hybrid": "in-person",
@@ -5841,29 +6804,33 @@
     },
     {
         "ID": "in-a72b4b41f8257551",
+        "location": "Las Vegas, NV, US",
+        "date": "2026-04-01",
         "years_experience": "N/A",
         "salary": "N/A",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "internship",
         "programming_languages": [
             "SQL",
-            "DAX",
+            "Spark SQL",
             "Python",
             "PySpark"
         ],
         "tools": [
             "Power BI",
-            "Databricks",
             "ServiceTitan",
+            "Databricks",
             "Snowflake",
             "Azure Synapse",
-            "Git",
             "Sage Intacct",
-            "UKG"
+            "UKG",
+            "Git"
         ]
     },
     {
         "ID": "in-baae610546eb64bb",
+        "location": "Las Vegas, NV, US",
+        "date": "2026-04-01",
         "years_experience": "2+",
         "salary": "up to $80,000 annually",
         "in-person/remote/hybrid": "in-person",
@@ -5872,13 +6839,15 @@
             "SQL"
         ],
         "tools": [
-            "SQL Server Management Studio (SSMS)",
-            "SQL Server"
+            "SQL Server Management Studio",
+            "SSMS"
         ]
     },
     {
         "ID": "in-a6c9519dc009491f",
-        "years_experience": "3+ years",
+        "location": "Las Vegas, NV, US",
+        "date": "2026-03-31",
+        "years_experience": "3+",
         "salary": "$80,000 - $105,000",
         "in-person/remote/hybrid": "remote",
         "fulltime/parttime/internship": "fulltime",
@@ -5892,7 +6861,9 @@
     },
     {
         "ID": "in-090867eb2954ab44",
-        "years_experience": "10+",
+        "location": "Nellis AFB, NV, US",
+        "date": "2026-03-31",
+        "years_experience": "10",
         "salary": "N/A",
         "in-person/remote/hybrid": "in-person",
         "fulltime/parttime/internship": "fulltime",
@@ -5911,6 +6882,8 @@
     },
     {
         "ID": "in-2c03ec3d2cf5c66b",
+        "location": "Nellis AFB, NV, US",
+        "date": "2026-03-31",
         "years_experience": "3+",
         "salary": "N/A",
         "in-person/remote/hybrid": "in-person",
@@ -5931,7 +6904,9 @@
     },
     {
         "ID": "in-628b734c34a59bf1",
-        "years_experience": "1-5 years",
+        "location": "Las Vegas, NV, US",
+        "date": "2026-03-31",
+        "years_experience": "1-5",
         "salary": "$75,474.00 - $109,432.00",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
@@ -5940,26 +6915,31 @@
             "Python"
         ],
         "tools": [
-            "GIS",
-            "relational databases"
+            "GIS systems"
         ]
     },
     {
         "ID": "in-43d8a8fbfe3c6934",
-        "years_experience": "5 years",
+        "location": "North Las Vegas, NV, US",
+        "date": "2026-03-31",
+        "years_experience": "5",
         "salary": "84,412.75 - 136,338.10",
-        "in-person/remote/hybrid": "in-person",
+        "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
         "tools": "N/A"
     },
     {
         "ID": "in-4f7e72842fbfde33",
-        "years_experience": "2 years",
+        "location": "Las Vegas, NV, US",
+        "date": "2026-03-30",
+        "years_experience": "2",
         "salary": "N/A",
         "in-person/remote/hybrid": "N/A",
         "fulltime/parttime/internship": "fulltime",
         "programming_languages": "N/A",
-        "tools": "Enterprise Asset Management (EAM) system"
+        "tools": [
+            "Enterprise Asset Management System"
+        ]
     }
 ]
