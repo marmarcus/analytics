@@ -6,10 +6,11 @@ from jobspy import scrape_jobs
 jobs = scrape_jobs(
     site_name=["indeed"],
     search_term="data analyst",
-    location="Las Vegas, NV",
+    location="Santa Ana, CA",
     distance=90,
-    results_wanted=50,
-    hours_old=168,
+    results_wanted=75,
+    #offset=51, # Start search at x position
+    hours_old=168, # 24 = 1 day, 72 = 3 days, 168 = 1 week, etc..
     country_indeed='USA',
 )
 

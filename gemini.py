@@ -26,7 +26,13 @@ def analyze_description(posts, id_number, location, date):
              Tools include software platforms such as Tableau, Power BI, Excel, AWS, Docker, Airflow, Kubernetes, etc.
 
              If listing out multiple keys for the fields programming_languages and tools, each item must be its own key. For example this is incorrect: "tools": "Claude, Stable Diffusion". It has to be "tools": ["Claude", "Stable Diffusion"]
+             
+             If a salary is specified as hourly then put 'hour'; if a salary is specified as bi-weekly or weekly then put 'week' in the week/month/year field; if a salary is specified as monthly then put 'month'; if salary is specified as yearly or annually then put 'year'.
+             If a salary is unspecified then if the MAXIMUM salary is below $1000 then put it as 'hour'; if its maximum is less than $6,000 then put it as 'week'; if its maximum is more than $6,000 and less than $18,000 then label it 'month'; if it is more than $50,000 then label it 'year'.
+             If none of the above is applicable, then simply put 'N/A'.
 
+             When putting a salary into the JSON salary field, do NOT include any alphabetic characters and only include numbers and special characters such as '$' , '-' , etc. 
+             
              If a requirement is being currently enrolled then it is an internship.
              
              If a field cannot be determined, return N/A into the field.
@@ -36,6 +42,7 @@ def analyze_description(posts, id_number, location, date):
              - location
              - date
              - years_experience
+             - hour/week/month/year
              - salary
              - in-person/remote/hybrid
              - fulltime/parttime/internship
@@ -79,7 +86,7 @@ location = df['location'] # Get all location from column cells
 date = df['date_posted'] # Get all posting dates from column cells
 
 # File defined for output
-output_file = "job_data2.json"
+output_file = "job_data4.json"
 
 # Check for output file, create if doesn't exist
 if not os.path.exists(output_file):
@@ -99,8 +106,10 @@ for i in range(len(descriptions)):
 
     # If current id already exists within the JSON file, then skip to the next id
     if id_number[i] in existing_keys:
-        print(f"Skipped existing ID - {id_number[i]}")
+        # print(f"Skipped existing ID - {id_number[i]}")
         continue
+
+    print("Analyzing data...")
 
     results = analyze_description(descriptions[i], id_number[i], location[i], date[i])    
 
@@ -111,5 +120,5 @@ for i in range(len(descriptions)):
     with open(output_file, "w") as file:
         json.dump(data, file, indent=4)
 
-    # 5 seconds between API call because of limit on tokens per minute
-    time.sleep(7)
+    # x seconds between API call because of limit on tokens per minute
+    time.sleep(15)
